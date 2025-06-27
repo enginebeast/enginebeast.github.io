@@ -1,5 +1,3 @@
-# enginebeast.github.io
-
 ## Project Engine Beast : Scarabe
 Mini slef-driving forlklift with Raspberry Pi 4 project
 
