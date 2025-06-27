@@ -1,11 +1,13 @@
 # enginebeast.github.io
 
 ## Project Engine Beast : Scarabe
+Slef-driving forlklift project
+
 ### Car frame
 
 ### Moving
 - Forward
-  Backward
+- Backward
 - Rotation
 
 ### Remote communication
