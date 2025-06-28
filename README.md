@@ -11,7 +11,10 @@ Mini slef-driving forlklift with Raspberry Pi 4 project
 - Work station
 
 #### Question
-How can make remoetet communication
+How can make remoete communication
+
+---
+### Checking battery status and deciding whether to charge or continue working
 
 ---
 ### Camera
