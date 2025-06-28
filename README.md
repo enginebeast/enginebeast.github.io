@@ -4,7 +4,7 @@ Raspberry Pi 4 * 1
 Power supply * 1
 Foam board
 Wheel * 4  
-Servo moter * 1  
+Servo motor * 1  
 DC motor * 1  
 Screen * 1 
 
