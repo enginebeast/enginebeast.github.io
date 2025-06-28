@@ -18,26 +18,30 @@ Foam board
 - Steering
 
 ---
-### Remote communication
-- Charge station
-- Work station
-
-#### Question
-How can make remoete communication
+### Recognizing the destinaiton and moving toward it
+- Charging station or parking place
+- Store room
+- Workplace(where loads are needed)
 
 ---
 ### Checking battery status and deciding whether to charge or continue working
-
+- Power consumption estimation before starting a mission
+ 
 ---
-### Camera
+### Identifying objects
+#### Types of objects
+- Load
+- Obstacles
+- Destination
 
-### Recognizing and escape obstacles
+#### Types of obstacles
 - Crack
 - Wall
-- Moving objects(other machine or people)
+- Moving objects(other machines or people)
 
 ---
 ### Lifting
+Limits of weights
 
 ---
 ### Forklift frame made by a 3D printer
