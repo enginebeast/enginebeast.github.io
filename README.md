@@ -1,10 +1,6 @@
 ## Project Engine Beast : Scarabe
 Mini slef-driving forlklift with Raspberry Pi 4 project
 
-### Car frame
-- Foam board
-- 3D printer filament
-
 ### Moving
 - Forward
 - Backward
@@ -14,8 +10,18 @@ Mini slef-driving forlklift with Raspberry Pi 4 project
 - Charge station
 - Work station
 
+#### Question
+How can make remote communication
+
 ### Camera
 
-### Recognizing and Identifying objects
+### Recognizing and escape obstacles
+- Crack
+- Wall
+- Moving objects(other machine or people)
 
 ### Lifting
+
+### Forklift frame made by a 3D printer
+- Low priority
+- 3D modeling program
