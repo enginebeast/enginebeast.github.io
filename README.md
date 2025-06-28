@@ -48,7 +48,6 @@ Limits of weights = Maximum torque of servo motor
 ### Checking storage room inventory
 - Remote communication with forklift
 
----
 ### Forklift frame made by a 3D printer
 - Low priority
 - 3D modeling program
