@@ -17,7 +17,7 @@ Screen * 1
 
 ---
 ## Project Engine Beast: Self Driving mini car
-<img src="https://github.com/user-attachments/assets/fe6cd509-f890-4eaa-bd6b-735cbe16e15" width="400"/>
+<img src="https://github.com/user-attachments/assets/221d81ae-9313-4dfe-b14f-44abe485a805" width="400"/>
 
 ### Components
 Camera * 1
