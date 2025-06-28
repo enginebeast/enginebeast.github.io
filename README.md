@@ -1,5 +1,4 @@
 ## Project Engine Beast : Mini car  
-![Image](https://github.com/user-attachments/assets/fe6cd509-f890-4eaa-bd6b-735cbe16e151)
 <img src="https://github.com/user-attachments/assets/fe6cd509-f890-4eaa-bd6b-735cbe16e151" width="400"/>
 
 ### Components
