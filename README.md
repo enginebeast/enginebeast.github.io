@@ -2,9 +2,9 @@
 Mini slef-driving forlklift with Raspberry Pi 4 project
 
 ### Moving
-- Forward
-- Backward
-- Rotation
+- Moving Forward or Backward
+- Steering
+---
 
 ### Remote communication
 - Charge station
@@ -12,6 +12,7 @@ Mini slef-driving forlklift with Raspberry Pi 4 project
 
 #### Question
 How can make remote communication
+---
 
 ### Camera
 
@@ -19,8 +20,10 @@ How can make remote communication
 - Crack
 - Wall
 - Moving objects(other machine or people)
+---
 
 ### Lifting
+---
 
 ### Forklift frame made by a 3D printer
 - Low priority
