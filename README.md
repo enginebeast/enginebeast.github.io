@@ -21,6 +21,8 @@ Screen * 1
 
 ### Components
 Camera * 1
+RADAR * 1
+LIDAR * 1
 
 ### Recognizing the destinaiton and moving toward it
 
