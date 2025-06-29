@@ -24,9 +24,9 @@ Steering wheel axis * 1
 <img src="https://github.com/user-attachments/assets/221d81ae-9313-4dfe-b14f-44abe485a805" width="400"/>
 
 ### Components
-Camera * 1
-RADAR * 1
-LIDAR * 1
+Camera * 1  
+RADAR * 1  
+LIDAR * 1  
 
 ### Recognizing the destinaiton and moving toward it
 
