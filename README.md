@@ -6,9 +6,13 @@ Raspberry Pi 4 * 1
 Power supply * 1
 Foam board
 Wheel * 4  
-Servo motor * 1  
 DC motor * 1  
+Motor driver * 1  
+Servo motor * 1  
 Screen * 1 
+Gear * 2
+Drive wheel axis * 1
+Steering wheel axis * 1
 
 ### Drive and steering mechanism  
 - Front-wheel drive with rear-wheel steering
@@ -54,6 +58,6 @@ Limits of weights = Maximum torque of servo motor
 ### Checking storage room inventory
 - Remote communication with forklift
 
-### Forklift frame made by a 3D printer
+### Frame made by a 3D printer
 - Low priority
-- 3D modeling program
+- It is necessary to learn how to use a 3D modeling program.
