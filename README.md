@@ -9,10 +9,10 @@ Wheel * 4
 DC motor * 1  
 Motor driver * 1  
 Servo motor * 1  
-Screen * 1 
-Gear * 2
-Drive wheel axis * 1
-Steering wheel axis * 1
+Screen * 1  
+Gear * 2  
+Drive wheel axis * 1  
+Steering wheel axis * 1  
 
 ### Drive and steering mechanism  
 - Front-wheel drive with rear-wheel steering
