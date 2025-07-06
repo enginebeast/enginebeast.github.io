@@ -1,23 +1,5 @@
 ## Project Engine Beast : RC car  
-<img src="https://github.com/user-attachments/assets/fe6cd509-f890-4eaa-bd6b-735cbe16e151" width="400"/>
-
-### Components
-Raspberry Pi 4 * 1  
-Power supply * 1
-Foam board
-Wheel * 4  
-DC motor * 1  
-Motor driver * 1  
-Servo motor * 1  
-Screen * 1  
-Gear * 2  
-Drive wheel axis * 1  
-Steering wheel axis * 1  
-
-### Drive and steering mechanism  
-- Front-wheel drive with rear-wheel steering
-
-### Checking battery status
+[Taking apart a RC car](https://enginebeast.github.io/self_drive1/)
 
 ---
 ## Project Engine Beast: Self Driving mini car
