@@ -1,5 +1,5 @@
 Engine beast means that a strong beast made by engineering.  
-And Sei means to rule with justice
+And Sei means to rule with justice.
 
 ## Contents
 [Taking apart a RC car](https://enginebeast.github.io/self_drive1/)
