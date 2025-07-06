@@ -5,6 +5,8 @@
 ## Project Engine Beast: Self Driving mini car
 <img src="https://github.com/user-attachments/assets/221d81ae-9313-4dfe-b14f-44abe485a805" width="400"/>
 
+Checking battery status
+
 ### Components
 Camera * 1  
 RADAR * 1  
