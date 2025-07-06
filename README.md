@@ -1,4 +1,4 @@
-## Project Engine Beast : RC car  
+## Contents
 [Taking apart a RC car](https://enginebeast.github.io/self_drive1/)
 
 ---
