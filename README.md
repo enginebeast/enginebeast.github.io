@@ -1,6 +1,4 @@
-Engine beast means that a strong beast made by engineering.  
-  
-And Sei means to rule with justice.
+Engine beast means that a strong beast made by engineering.
 
 # Contents
 ---
