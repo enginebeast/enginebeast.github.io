@@ -3,7 +3,7 @@ Engine beast means that a strong beast made by engineering.
 # Contents
 ---
 
-### [Taking apart a RC car](https://enginebeast.github.io/self_drive1/)
+### [Taking apart an RC car](https://enginebeast.github.io/self_drive1/)
 
 ### Buying a raspberry pi RC car kit and made it
 
