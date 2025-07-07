@@ -7,7 +7,7 @@ And Sei means to rule with justice.
 
 ### [Taking apart a RC car](https://enginebeast.github.io/self_drive1/)
 
-### How to make device to check battery status
+### Buy a raspberry pi RC car kit and made it
 
 ### Set up a camera
 
@@ -18,6 +18,7 @@ And Sei means to rule with justice.
 ### Recognizing the destinaiton and moving toward it
 
 ### Checking battery status and deciding whether to charge or continue working
+- How to make device to check battery status
 
 ### Frame made by a 3D printer
 - Low priority
