@@ -7,7 +7,7 @@ And Sei means to rule with justice.
 
 ### [Taking apart a RC car](https://enginebeast.github.io/self_drive1/)
 
-### Buy a raspberry pi RC car kit and made it
+### Buying a raspberry pi RC car kit and made it
 
 ### Set up a camera
 
