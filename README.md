@@ -1,4 +1,4 @@
-Engine beast means that a strong beast made by engineering.
+Engine beast means a strong beast made by engineering.
 
 # Contents
 ---
