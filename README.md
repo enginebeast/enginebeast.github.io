@@ -7,7 +7,7 @@ Engine beast means a strong beast made by engineering.
 
 ### Inductor and Capacitor
 
-### Reactance and Impedance
+### Resistance, Reactance and Impedance
 
 # Projects
 ---
