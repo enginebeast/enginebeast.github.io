@@ -1,22 +1,14 @@
 Engine beast means a strong beast made by engineering.
 
-# Math
----
+# Studies
 
-# Physics
----
+### Math
 
-# Computer
----
+### Physics
 
-# Electronics
----
+### Computer
 
-### Current, Resistance and Voltage
-
-### Inductor and Capacitor
-
-### Resistance, Reactance and Impedance
+### [Electronics]()
 
 # Projects
 ---
