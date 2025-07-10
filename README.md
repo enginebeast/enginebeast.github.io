@@ -9,6 +9,6 @@ Engine beast means a strong beast made by engineering.
 
 ### [Computer Note](https://enginebeast.github.io/Computer/)
 
-### [Electronics](https://enginebeast.github.io/Electronics/)
+### [Electronics Note](https://enginebeast.github.io/Electronics/)
 
 ### [Projects](https://enginebeast.github.io/Projects/)
