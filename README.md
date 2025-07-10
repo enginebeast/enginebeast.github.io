@@ -1,17 +1,14 @@
 Engine beast means a strong beast made by engineering.
 
-# Studies
+# Contents
 ---
 
-### Math
+### [Math Note](https://enginebeast.github.io/Math/)
 
-### Physics
+### [Physics Note](https://enginebeast.github.io/Physics/)
 
-### Computer
+### [Computer Note](https://enginebeast.github.io/Computer/)
 
 ### [Electronics](https://enginebeast.github.io/Electronics/)
 
-# Projects
----
-
-### [RC car project](https://enginebeast.github.io/RCcar/)
+### [Projects](https://enginebeast.github.io/Projects/)
