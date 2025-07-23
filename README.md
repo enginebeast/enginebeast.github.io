@@ -8,4 +8,4 @@ Engine beast means a strong beast made by engineering.
 # To-do
 ---
 
-### [Raspberry RC car project]
+### Raspberry RC car project
