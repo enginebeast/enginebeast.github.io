@@ -2,9 +2,6 @@ Engine beast means a strong beast made by engineering.
 
 # Contents
 ---
-
-### [Reusable knowledge](https://enginebeast.github.io/Note/)
-
 ### Github pages project
 
 ### [Arduino RC car project](https://enginebeast.github.io/RCcar/)
@@ -13,3 +10,5 @@ Engine beast means a strong beast made by engineering.
 ---
 
 ### Raspberry RC car project
+
+### Way to change github pages at the same time
