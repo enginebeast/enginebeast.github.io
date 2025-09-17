@@ -1,5 +1,5 @@
 ---
-title: Forier series
+title: Fourier series
 use_math: true
 ---
 
