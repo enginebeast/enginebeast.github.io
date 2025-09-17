@@ -1,8 +1,6 @@
 title: "Engine Beast : Alpha"
 description: "Main Page"
 markdown: kramdown
-markdown: kramdown
-mathjax: true
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
