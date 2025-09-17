@@ -5,13 +5,13 @@ use_math: true
 ---
 
 ### Definition of Fourier series
-
-$$ 
+$$
+\begin{align}
 f(x) = a_0 + \sum^\infty_{n=1} a_n \cos nx + \sum^\infty_{n=1} b_n \sin nx
+\end{align}
 $$
 
 ### Definition of Fourier coefficients
-
 $$
 \begin{align}
 & a_0 = \frac{1}{2\pi}\int^\pi_{-\pi}f(x)dx
