@@ -1,3 +1,6 @@
 title: "Engine Beast : Alpha"
 description: "Main Page"
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
 theme: jekyll-theme-cayman
