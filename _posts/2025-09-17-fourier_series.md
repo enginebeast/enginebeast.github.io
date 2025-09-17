@@ -6,7 +6,9 @@ use_math: true
 
 ### Definition of Fourier series
 
-$\displaystyle f(x) = a_0 + \sum^\infty_{n=1} a_n \cos nx + \sum^\infty_{n=1} b_n \sin nx$
+$$ 
+f(x) = a_0 + \sum^\infty_{n=1} a_n \cos nx + \sum^\infty_{n=1} b_n \sin nx
+$$
 
 ### Definition of Fourier coefficients
 
