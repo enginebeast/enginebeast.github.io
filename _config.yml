@@ -2,8 +2,6 @@ title: "Engine Beast : Alpha"
 description: "Main Page"
 
 markdown: kramdown
-kramdown:
-mathengine: mathjax
 
 highlighter: rouge
 lsi: false
