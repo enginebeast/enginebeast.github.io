@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Fourier series
 use_math: true
 ---
