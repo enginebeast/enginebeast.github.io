@@ -7,4 +7,11 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
+
+defaults:
+  - scope:
+      path: "" 
+    values:
+      title: "Engine Beast : Alpha"
+
 theme: jekyll-theme-cayman
