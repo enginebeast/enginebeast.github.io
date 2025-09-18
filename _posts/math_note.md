@@ -1,0 +1,11 @@
+---
+title: "Engine Beast : Alpha"
+description: Math note
+---
+< [Main Page](https://enginebeast.github.io/)
+
+### [Trigonometric addition formula](https://enginebeast.github.io/math1)
+
+### [Orthogonality of the trigonometric system](https://enginebeast.github.io/math2)
+
+### [Forier series]([https://enginebeast.github.io/math3](https://enginebeast.github.io/2025/09/17/fourier_series.html))
