@@ -11,7 +11,7 @@ f(x) = a_0 + \sum^\infty_{n=1} a_n \cos nx + \sum^\infty_{n=1} b_n \sin nx
 \end{align}
 $$
 
-### Definition of Fourier coefficients
+### Formula of Fourier coefficients
 $$
 \begin{align}
 & a_0 = \frac{1}{2\pi}\int^\pi_{-\pi}f(x)dx
@@ -21,3 +21,5 @@ $$
 \\ & b_n = \frac{1}{\pi}\int^\pi_{-\pi}f(x)\sin nxdx
 \end{align}
 $$
+
+### Derivation of $a_0$
