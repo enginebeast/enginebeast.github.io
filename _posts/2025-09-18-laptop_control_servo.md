@@ -1,5 +1,4 @@
 ---
-title: "Engine Beast : Alpha"
 description: Controlling a servo motor through laptop connection
 ---
 
