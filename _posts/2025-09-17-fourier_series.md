@@ -36,6 +36,8 @@ $$
 \end{align}
 $$
 $$
+\begin{align}
 \\
 \Rightarrow a_n = \frac{1}{\pi}\int^\pi_{-\pi}f(x)\cos nxdx
+\end{align}
 $$
