@@ -1,5 +1,4 @@
 ---
-title: "Engine Beast : Alpha"
 description: "Fourier series"
 use_math: true
 ---
