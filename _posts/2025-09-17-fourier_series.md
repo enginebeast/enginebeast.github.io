@@ -22,4 +22,4 @@ $$
 \end{align}
 $$
 
-### Derivation of $a_0$
+### Derivation of $$a_0$$
