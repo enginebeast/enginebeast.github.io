@@ -2,7 +2,7 @@
 title: "Engine Beast : Alpha"
 description: Taking apart an RC car
 ---
-< [Main Page](https://enginebeast.github.io/) < [Small car project](https://enginebeast.github.io/smallcar)
+< [Main Page](https://enginebeast.github.io/) < [Small car project](https://enginebeast.github.io/2025/09/18/smallcar.html)
 
 Purpose: to understand the structure of the driving system and steering system of an RC car  
 
