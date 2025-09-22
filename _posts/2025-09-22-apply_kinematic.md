@@ -1,5 +1,5 @@
 ---
-description: Applying Kinematic Equations by Definition
+description: Applying kinematic equations by definition
 use_math: true
 ---
 
