@@ -19,7 +19,7 @@ comments:
   giscus:
     repo: "enginebeast/enginebeast.github.io"
     repo_id: "R_kgDOPCKDlA"
-    category: "[ENTER CATEGORY NAME HERE]"
-    category_id: "[ENTER CATEGORY ID HERE]"
+    category: "General"
+    category_id: "DIC_kwDOPCKDlM4Cv1IV"
 
 theme: jekyll-theme-cayman
