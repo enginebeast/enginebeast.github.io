@@ -14,4 +14,12 @@ defaults:
     values:
       title: "Engine Beast : Alpha"
 
+comments:
+  active: 'giscu'
+  giscus:
+    repo: "enginebeast/enginebeast.github.io"
+    repo_id: "R_kgDOPCKDlA"
+    category: "[ENTER CATEGORY NAME HERE]"
+    category_id: "[ENTER CATEGORY ID HERE]"
+
 theme: jekyll-theme-cayman
