@@ -15,7 +15,7 @@ defaults:
       title: "Engine Beast : Alpha"
 
 comments:
-  active: 'giscu'
+  active: 'giscus'
   giscus:
     repo: "enginebeast/enginebeast.github.io"
     repo_id: "R_kgDOPCKDlA"
