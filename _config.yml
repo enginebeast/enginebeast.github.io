@@ -13,6 +13,6 @@ defaults:
     values:
       title: "Engine Beast : Alpha"
 
-permalink: permalink: /:year-:month-:day-:title/
+permalink: /:year-:month-:day-:title/
 
 theme: jekyll-theme-cayman
