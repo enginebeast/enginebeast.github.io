@@ -1,6 +1,5 @@
 ---
 description: Physics note
-comments: true
 ---
 < [Main Page](https://enginebeast.github.io/)
 
