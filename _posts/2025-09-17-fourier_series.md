@@ -3,7 +3,7 @@ description: "Fourier series"
 use_math: true
 comments: true
 ---
-< [Main Page](https://enginebeast.github.io/) < [Math note](https://enginebeast.github.io-2025-09-18-math_note/)
+< [Main Page](https://enginebeast.github.io/) < [Math note](https://enginebeast.github.io/2025-09-18-math_note/)
 
 ### Definition of Fourier series
 $$
