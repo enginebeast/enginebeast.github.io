@@ -2,7 +2,6 @@ title: "Engine Beast : Alpha"
 description: "Main Page"
 
 markdown: kramdown
-
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
@@ -13,5 +12,7 @@ defaults:
       path: "" 
     values:
       title: "Engine Beast : Alpha"
+
+permalink: permalink: /:year-:month-:day-:title/
 
 theme: jekyll-theme-cayman
