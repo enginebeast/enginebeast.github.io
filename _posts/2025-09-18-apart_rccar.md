@@ -1,5 +1,6 @@
 ---
 description: Taking apart an RC car
+comments: true
 ---
 < [Main Page](https://enginebeast.github.io/) < [Small car project](https://enginebeast.github.io/2025/09/18/smallcar.html)
 
