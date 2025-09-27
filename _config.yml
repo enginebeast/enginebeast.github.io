@@ -1,13 +1,6 @@
 title: "Engine Beast : Alpha"
 description: "Main Page"
 
-# Code for maxjax
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
-
 # Fixiing the title
 defaults:
   - scope:
@@ -16,6 +9,13 @@ defaults:
       title: "Engine Beast : Alpha"
 
 # Fixing the form of url
-permalink: /:year-:month-:day-:title/
+permalink: /:title/
+
+# Code for maxjax
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
 
 theme: jekyll-theme-cayman
