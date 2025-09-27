@@ -8,7 +8,7 @@ defaults:
     values:
       title: "Engine Beast : Alpha"
 
-# Fixing the form of url
+# Fixing and simplifying the form of url
 permalink: /:title/
 
 # Code for maxjax
