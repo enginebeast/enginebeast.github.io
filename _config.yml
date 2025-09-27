@@ -1,18 +1,21 @@
 title: "Engine Beast : Alpha"
 description: "Main Page"
 
+# Code for maxjax
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+# Fixiing the title
 defaults:
   - scope:
       path: "" 
     values:
       title: "Engine Beast : Alpha"
 
+# Fixing the form of url
 permalink: /:year-:month-:day-:title/
 
 theme: jekyll-theme-cayman
