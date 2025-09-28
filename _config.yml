@@ -11,6 +11,20 @@ defaults:
 # Fixing and simplifying the form of url
 permalink: /:title/
 
+# Archives
+math_note_archive:
+  type: liquid
+  path: /math_note/
+physics_note_archive:
+  type: liquid
+  path: /physics_note/
+eee_note_archive:
+  type: liquid
+  path: /eee_note/
+smallcar_archive:
+  type: liquid
+  path: /smallcar/
+
 # Code for maxjax
 markdown: kramdown
 highlighter: rouge
