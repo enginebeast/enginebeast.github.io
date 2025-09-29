@@ -328,7 +328,7 @@ defaults:
 
 # Comments
 comments:
-  active: "giscus"
+  provider: "giscus"
   giscus:
     repo: "enginebeast/enginebeast.github.io"
     repo_id: "R_kgDOPCKDlA"
