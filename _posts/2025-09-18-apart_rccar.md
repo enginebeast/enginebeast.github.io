@@ -1,5 +1,7 @@
 ---
-description: Taking apart an RC car
+title: "Taking apart an RC car"
+categories: 
+    - Small car project
 comments: true
 ---
 < [Main Page](https://enginebeast.github.io/) < [Small car project](https://enginebeast.github.io/2025-09-18-smallcar/)

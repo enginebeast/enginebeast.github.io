@@ -1,5 +1,7 @@
 ---
-description: Exponential Fourier series
+title: "Exponential Fourier series"
+categories:
+    - Math note
 use_math: true
 comments: true
 ---

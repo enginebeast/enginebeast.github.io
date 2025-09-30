@@ -1,5 +1,7 @@
 ---
-description: Controlling a servo motor through laptop connection
+title: "Controlling a servo motor through laptop connection"
+categories:
+  - Small car project
 comments: true
 ---
 
