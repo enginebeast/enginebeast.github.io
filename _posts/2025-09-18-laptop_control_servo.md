@@ -5,8 +5,6 @@ categories:
 comments: true
 ---
 
-< [Main Page](https://enginebeast.github.io/) < [Small car project](https://enginebeast.github.io/2025-09-18-smallcar/)
-
 ### Process
 First, I programmed a servo motor to change angle gradually.
 

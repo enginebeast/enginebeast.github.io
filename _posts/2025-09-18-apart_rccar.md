@@ -4,7 +4,6 @@ categories:
     - Small car project
 comments: true
 ---
-< [Main Page](https://enginebeast.github.io/) < [Small car project](https://enginebeast.github.io/2025-09-18-smallcar/)
 
 Purpose: to understand the structure of the driving system and steering system of an RC car  
 
