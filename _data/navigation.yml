@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Home"
+    url: /
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -10,3 +10,21 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+docs:
+  - title: Math note
+    url: /math_note/
+    category_name: math_note
+
+  - title: Physics note
+    url: /physics_note/
+    category_name: physics_note
+  
+  - title: EEE note
+    url: /eee_note/
+    category_name: eee_note
+  
+  - title: Small car project
+    url: /smallcar/
+    category_name: smallcar
+  
