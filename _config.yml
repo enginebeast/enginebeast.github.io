@@ -291,16 +291,16 @@ whitelist:
 # tag_archive:
 #   type: liquid
 #   path: /tags/
-tag_archive:
+math_note_archive:
   type: liquid
   path: /math_note/
-tag_archive:
+physics_note_archive:
   type: liquid
   path: /physics_note/
-tag_archive:
+eee_note_archive:
   type: liquid
   path: /eee_note/
-tag_archive:
+smallcar_archive:
   type: liquid
   path: /smallcar/
 
