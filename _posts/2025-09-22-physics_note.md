@@ -1,5 +1,5 @@
 ---
-description: Physics note
+title: Physics note
 ---
 < [Main Page](https://enginebeast.github.io/)
 
