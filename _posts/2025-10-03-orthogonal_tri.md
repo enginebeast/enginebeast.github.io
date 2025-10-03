@@ -1,3 +1,11 @@
+---
+title: "Fourier series"
+categories:
+    - math_note
+use_math: true
+comments: true
+---
+
 ### Formulas
 $$
 \begin{flalign*}
