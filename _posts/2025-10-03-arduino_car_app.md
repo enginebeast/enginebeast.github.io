@@ -1,5 +1,5 @@
 ---
-title: "Controlling a servo motor through laptop connection"
+title: "Remote control app for Arduino RC car"
 categories:
   - smallcar
 comments: true
