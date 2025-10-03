@@ -85,7 +85,7 @@ $$
 However, by the symmetry of the sine function about the origin, the result of the formula is always 0.
 
 $$ 
-\begin{falign*}
-\int_{-\pi}^\pi \sin nx \cos mx = 0 
-\end{falign*} &&
+\begin{flalign*}
+\int_{-\pi}^\pi \sin nx \cos mx = 0 &&
+\end{flalign*}
 $$
