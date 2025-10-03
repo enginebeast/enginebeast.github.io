@@ -1,5 +1,5 @@
 ---
-title: "Fourier series"
+title: "Orthogonality of the trigonometric system"
 categories:
     - math_note
 use_math: true
