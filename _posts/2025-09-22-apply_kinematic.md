@@ -1,7 +1,7 @@
 ---
 title: "Applying kinematic equations by definition"
 categories:
-    - Physics
+    - physics_note
 use_math: true
 comments: true
 ---

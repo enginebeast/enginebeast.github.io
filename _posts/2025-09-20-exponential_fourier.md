@@ -1,7 +1,7 @@
 ---
 title: "Exponential Fourier series"
 categories:
-    - Math note
+    - math_note
 use_math: true
 comments: true
 ---

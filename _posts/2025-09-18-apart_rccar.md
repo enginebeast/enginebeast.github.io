@@ -1,7 +1,7 @@
 ---
 title: "Taking apart an RC car"
 categories: 
-    - Small car project
+    - smallcar
 comments: true
 ---
 

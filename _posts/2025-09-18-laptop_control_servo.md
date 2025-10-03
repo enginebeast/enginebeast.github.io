@@ -1,7 +1,7 @@
 ---
 title: "Controlling a servo motor through laptop connection"
 categories:
-  - Small car project
+  - smallcar
 comments: true
 ---
 
