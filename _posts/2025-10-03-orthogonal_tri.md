@@ -48,7 +48,7 @@ $$
 0 & (n \neq m)
 \\ \pi & (n = m \neq 0)
 \\ 2\pi & (n = m = 0)
-\end{cases}
+\end{cases} &&
 \end{flalign*}
 $$
 
