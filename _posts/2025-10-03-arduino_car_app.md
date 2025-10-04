@@ -27,8 +27,8 @@ I think it's because there is a function that arranges automatically. So, I inse
 
 Next, I programed the app using block editor of MIT app inventor. The above parts are used to connect the smartphone app to the Arduino via a Bluetooth module. Here is the [Youtube video](https://community.appinventor.mit.edu/t/app-inventor-arduino/18357) I refered to when making the above blocks. 
 
-<img width="455" height="532" alt="image" src="https://github.com/user-attachments/assets/743d38fa-090a-4fd4-86bf-cd0f749f3c39" />  
-  
-<img width="442" height="527" alt="image" src="https://github.com/user-attachments/assets/744af61b-960f-4f6d-be58-1ab2e477256a" />
+<img width="455" height="532" alt="image" src="https://github.com/user-attachments/assets/cf6c4896-afab-4964-8892-edeb2976f2ca" />
+
+<img width="442" height="527" alt="image" src="https://github.com/user-attachments/assets/4b4f3156-44b3-4c18-afb6-72eef3e3e0e5" />
 
 [Link](https://www.youtube.com/watch?v=xfmdanZ_Fgc&t=907s)
