@@ -1,5 +1,5 @@
 ---
-title: Math note
+title: Fourier series
 ---
 
 ### [2 Pi period Fourier series](https://enginebeast.github.io/math_note/2pi_fourier_series)
