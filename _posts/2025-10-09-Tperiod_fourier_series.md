@@ -1,0 +1,49 @@
+---
+title: "2 Pi period Fourier series"
+categories:
+    - math_note
+use_math: true
+comments: true
+---
+
+### Definition of Fourier series
+$$
+\begin{flalign*}
+f(t) = a_0 + \sum^\infty_{n=1} a_n \cos n\omega_0t + \sum^\infty_{n=1} b_n \sin n\omega_0t
+\end{flalign*}
+$$
+  
+
+### Formula of Fourier coefficients
+$$
+\begin{flalign*}
+& a_0 = \frac{1}{T}\int^T_0f(t)dt
+\\
+\\ & a_n = \frac{2}{T}\int^T_0f(t)\cos n\omega_0tdt
+\\
+\\ & b_n = \frac{2}{T}\int^T_0f(t)\sin n\omega_0tdt
+\end{flalign*}
+$$  
+
+
+### Fourier coefficients of even function
+$$
+\begin{flalign*}
+& a_0 = \frac{2}{T}\int^\{T/2}_0f(t)dt
+\\
+\\ & a_n = \frac{4}{T}\int^{T/2}_0f(t)\cos n\omega_0tdt
+\\
+\\ & b_n = 0
+\end{flalign*}
+$$  
+
+### Fourier coefficients of odd function
+$$
+\begin{flalign*}
+& a_0 = 0
+\\
+\\ & a_n = 0
+\\
+\\ & b_n = \frac{4}{T}\int^{T/2}_0f(t)\sin n\omega_0tdt
+\end{flalign*}
+$$  
