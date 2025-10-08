@@ -1,5 +1,5 @@
 ---
-title: "2 Pi period Fourier series"
+title: "Arbitrary T period Fourier series"
 categories:
     - math_note
 use_math: true
