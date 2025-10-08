@@ -1,5 +1,5 @@
 ---
-title: "Fourier series"
+title: "2 Pi period Fourier series"
 categories:
     - math_note
 use_math: true
