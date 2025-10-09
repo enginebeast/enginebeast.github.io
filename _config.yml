@@ -294,6 +294,9 @@ whitelist:
 math_note_archive:
   type: liquid
   path: /math_note/
+fourier_note_archive:
+  type: liquid
+  path: /fourier_note/
 physics_note_archive:
   type: liquid
   path: /physics_note/

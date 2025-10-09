@@ -15,6 +15,10 @@ docs:
   - title: Math note
     url: /math_note/
     category_name: math_note
+    children:
+      - title: Fourier
+        url: /math_note/fourier/
+        category_name: "fourier"
 
   - title: Physics note
     url: /physics_note/
