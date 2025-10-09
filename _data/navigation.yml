@@ -16,6 +16,9 @@ docs:
     url: /math_note/
     category_name: math_note
     children:
+      - title: Calculus
+        url: /math_note/calculus/
+        category_name: "calculus"
       - title: Fourier
         url: /math_note/fourier/
         category_name: "fourier"

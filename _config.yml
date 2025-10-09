@@ -294,9 +294,13 @@ whitelist:
 math_note_archive:
   type: liquid
   path: /math_note/
+calculus_archive:
+  type: liquid
+  path: /math_note/calculus/
 fourier_archive:
   type: liquid
   path: /math_note/fourier/
+
 physics_note_archive:
   type: liquid
   path: /physics_note/
