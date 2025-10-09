@@ -29,7 +29,7 @@ $$
 ### Fourier coefficients of even function
 $$
 \begin{flalign*}
-& a_0 = \frac{2}{T}\int^\{T/2}_0f(t)dt
+& a_0 = \frac{2}{T}\int^{T/2}_0f(t)dt
 \\
 \\ & a_n = \frac{4}{T}\int^{T/2}_0f(t)\cos n\omega_0tdt
 \\
