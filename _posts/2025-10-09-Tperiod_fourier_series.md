@@ -26,7 +26,7 @@ $$
 $$  
 
 
-### Fourier coefficients of even function
+### Fourier coefficients for even function
 $$
 \begin{flalign*}
 & a_0 = \frac{2}{T}\int^{T/2}_0f(t)dt
@@ -37,7 +37,7 @@ $$
 \end{flalign*}
 $$  
 
-### Fourier coefficients of odd function
+### Fourier coefficients for odd function
 $$
 \begin{flalign*}
 & a_0 = 0
