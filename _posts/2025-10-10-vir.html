@@ -5,8 +5,8 @@ categories:
 use_math: true
 ---
 
-<h2>Kirchhoff's voltage law(KVL)</h2>
-If there are n currents flowing a node, they follow next formula.
+<h2>Kirchhoff's voltage law(KCL)</h2>
+If there are n currents flowing into or out of a node, they satisfy the following equation.
 
 $$
 \begin{flalign*}
@@ -14,7 +14,7 @@ $$
 \end{flalign*}
 $$
 
-So, we can find current we want to know as follows.
+Therefore, we can find any unknown current as follows.
 
 $$
 \begin{flalign*}
@@ -22,7 +22,21 @@ I_j = -\sum^n_{i\neq j} I_i &&
 \end{flalign*}
 $$
 
-<h2>Kirchhoff's current law(KCL)</h2>
+<h2>Kirchhoff's voltage law(KVL)</h2>
+If there are n voltages in a closed loop, they satisfy the following equation.
+$$
+\begin{flalign*}
+\sum^n_{i=1} V_i = 0 &&
+\end{flalign*}
+$$
+
+Therefore, we can find any unknown voltage as follows.
+
+$$
+\begin{flalign*}
+V_j = -\sum^n_{i\neq j} V_i &&
+\end{flalign*}
+$$
 
 <h2>Nodal analysis</h2>
 
