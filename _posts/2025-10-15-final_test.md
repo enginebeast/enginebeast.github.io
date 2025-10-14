@@ -1,9 +1,9 @@
 ---
-title: "Tester2"
+title: "final test"
 categories:
     - math_note
 use_math: true
 comments: true
 ---
 
-pls2
+pls
