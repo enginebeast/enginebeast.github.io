@@ -35,7 +35,7 @@ For side of cylindal,
   
 $$d\vec{A} = rd\theta dz\hat{r}$$
 
-
+<img width="1524" height="881" alt="Image" src="https://github.com/user-attachments/assets/0def6749-de92-47d5-926d-393c4a84be6e" />
 
 For surface of sphere,  
 
