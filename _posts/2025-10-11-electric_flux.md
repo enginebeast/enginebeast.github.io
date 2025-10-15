@@ -79,7 +79,7 @@ $$
 \end{flalign*}
 $$
 
-Where q is net charge, and $\epsilon_0$ is permittivity of free space.  
+Where q is net charge, and $$\epsilon_0$$ is permittivity of free space.  
   
 If \(q_{enc}\) is positive, a net flux heads to the outside. 
 And if \(q_{enc}\) is negative, a net flux heads to the inside.
