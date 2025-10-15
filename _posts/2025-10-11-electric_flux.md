@@ -8,6 +8,7 @@ use_math: true
 <h2>Definition of electric flux</h2>
 <details>
     <summary>fold/unfold</summary>
+
     We define electric flux by following equation.
     $$
     \begin{flalign*}
@@ -43,6 +44,7 @@ use_math: true
     d\vec{A} = r^2 \sin\phi d\theta d\phi \hat{r} &&
     \end{flalign*}
     $$
+    
 </details>
 
 <h2>Gauss' law</h2>

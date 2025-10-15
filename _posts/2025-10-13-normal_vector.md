@@ -9,11 +9,11 @@ comments: true
 <h2>Gradient</h2>
 
 $$
-\begin{flalign*}
+\begin{aligned}
 \nabla f = \frac{\partial f}{\partial x}\hat{i} +
 \frac{\partial f}{\partial y}\hat{j} +
 \frac{\partial f}{\partial z}\hat{k} &&
-\end{flalign*}
+\end{aligned}
 $$
 
 <h2>Normal unit vector</h2>
