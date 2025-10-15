@@ -7,7 +7,8 @@ use_math: true
 
 <h2>Definition of electric flux</h2>
 
-We define electric flux by following equation.
+We define electric flux by following equation.  
+
 $$
 \begin{flalign*}
 \Phi = \oint\vec{E}\cdot d\vec{A} &&
@@ -16,12 +17,34 @@ $$
 
 We can calculate differential normal area(\(d\vec{A}\)) using the following formula.<br>
 <br>
-For rectangular box,<br>
-<br>
-\(d\vec{A} = dxdy\hat{z}\)   or   \(d\vec{A} = dydz\hat{x}\)   or   \(d\vec{A} = dzdx\hat{y}\)<br>
-<br>
+For rectangular box,  
+
+$$
+\begin{flalign*}
+d\vec{A} = dxdy\hat{z} &&
+\end{flalign*}
+$$
+
+or   
+
+$$
+\begin{flalign*}
+d\vec{A} = dydz\hat{x} &&
+\end{flalign*}
+$$
+
+or
+
+$$
+\begin{flalign*}
+d\vec{A} = dzdx\hat{y} &&
+\end{flalign*}
+$$
+  
 <img width="1524" height="881" alt="Image" src="https://github.com/user-attachments/assets/3f25213b-88bf-41dc-b2f6-20ec0f8a47d7" />
+
 For top or bottom of cylinder,
+  
 $$
 \begin{flalign*}
 d\vec{A} = rdrd\theta\hat{z} &&
@@ -29,6 +52,7 @@ d\vec{A} = rdrd\theta\hat{z} &&
 $$
 
 For side of cylindal,
+  
 $$
 \begin{flalign*}
 d\vec{A} = rd\theta dz\hat{r} &&
@@ -36,7 +60,8 @@ d\vec{A} = rd\theta dz\hat{r} &&
 $$
 
 <img width="1524" height="881" alt="Image" src="https://github.com/user-attachments/assets/6ed16e85-c4de-4bed-a5f0-39c022d54ee3" />
-For surface of sphere,
+For surface of sphere,  
+
 $$
 \begin{flalign*}
 d\vec{A} = r^2 \sin\phi d\theta d\phi \hat{r} &&
