@@ -17,22 +17,19 @@ $$
 $$
 
 <h2>Normal unit vector</h2>
-<details>
-    <summary>fold/unfold</summary>
+
     $$
     \begin{flalign*}
     \hat{n} = \frac{\nabla f}{|f|} &&
     \end{flalign*}
     $$
-</details>
 
 
 <h2>Differential normal area</h2>
-<details>
-    <summary>fold/unfold</summary>
+
     $$
     \begin{flalign*}
     d \vec{A} = dA \cdot \hat{n} &&
     \end{flalign*}
     $$
-</details>
+    
