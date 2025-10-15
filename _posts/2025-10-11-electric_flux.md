@@ -15,7 +15,7 @@ $$
 \end{flalign*}
 $$
 
-We can calculate differential normal area using the following formula.  
+We can calculate $$d\vec{A}$$ using the following formula.  
   
 For rectangular box,  
 
@@ -79,7 +79,7 @@ $$
 \end{flalign*}
 $$
 
-Where q is net charge, and $$\epsilon_0$$ is permittivity of free space.  
+Where $$q_enc$$ is net charge, and $$\epsilon_0$$ is permittivity of free space.  
   
-If \(q_{enc}\) is positive, a net flux heads to the outside. 
-And if \(q_{enc}\) is negative, a net flux heads to the inside.
+If $$q_enc$$ is positive, a net flux heads to the outside. 
+And if $$q_enc$$ is negative, a net flux heads to the inside.
