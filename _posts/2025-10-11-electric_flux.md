@@ -6,8 +6,6 @@ use_math: true
 ---
 
 <h2>Definition of electric flux</h2>
-<details>
-    <summary>fold/unfold</summary>
 
     We define electric flux by following equation.
     $$
@@ -45,11 +43,8 @@ use_math: true
     \end{flalign*}
     $$
     
-</details>
-
 <h2>Gauss' law</h2>
-<details>
-    <summary>fold/unfold</summary>
+
     After trying to find electric flux, we would realize that it is not easy to calculate it using only its mathematical definition.
     For this reason, we can use Gauss' law which is a method to solve electric flux problems more easier.
 
@@ -63,4 +58,3 @@ use_math: true
     <br>
     If \(q_{enc}\) is positive, a net flux heads to the outside. 
     And if \(q_{enc}\) is negative, a net flux heads to the inside.
-</details>
