@@ -25,7 +25,7 @@ or
 
 $$d\vec{A} = dzdx\hat{y}$$
   
-<img width="1524" height="881" alt="Image" src="https://github.com/user-attachments/assets/3f25213b-88bf-41dc-b2f6-20ec0f8a47d7" />
+![alt text](<geogebra-export (1).png>)
 
 For top or bottom of cylinder,
   
@@ -35,7 +35,8 @@ For side of cylindal,
   
 $$d\vec{A} = rd\theta dz\hat{r}$$
 
-<img width="1524" height="881" alt="Image" src="https://github.com/user-attachments/assets/6ed16e85-c4de-4bed-a5f0-39c022d54ee3" />
+![alt text](<geogebra-export (2).png>)
+
 For surface of sphere,  
 
 $$d\vec{A} = r^2 \sin\phi d\theta d\phi \hat{r}$$
