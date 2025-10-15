@@ -9,11 +9,7 @@ use_math: true
 
 We define electric flux by following equation.  
 
-$$
-\begin{flalign*}
-\Phi = \oint\vec{E}\cdot d\vec{A} &&
-\end{flalign*}
-$$
+$$\Phi = \oint\vec{E}\cdot d\vec{A}$$
 
 We can calculate $$d\vec{A}$$ using the following formula.  
   
@@ -79,7 +75,7 @@ $$
 \end{flalign*}
 $$
 
-Where $$q_enc$$ is net charge, and $$\epsilon_0$$ is permittivity of free space.  
+Where $$q_{enc}$$ is net charge, and $$\epsilon_0$$ is permittivity of free space.  
   
-If $$q_enc$$ is positive, a net flux heads to the outside. 
-And if $$q_enc$$ is negative, a net flux heads to the inside.
+If $$q_{enc}$$ is positive, a net flux heads to the outside. 
+And if $$q_{enc}$$ is negative, a net flux heads to the inside.
