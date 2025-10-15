@@ -7,6 +7,7 @@ comments: true
 ---
 
 <h2>Gradient</h2>
+
 $$
 \begin{flalign*}
 \nabla f = \frac{\partial f}{\partial x}\hat{i} +
