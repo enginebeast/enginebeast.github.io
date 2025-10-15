@@ -18,18 +18,17 @@ $$
 
 <h2>Normal unit vector</h2>
 
-    $$
-    \begin{flalign*}
-    \hat{n} = \frac{\nabla f}{|f|} &&
-    \end{flalign*}
-    $$
+$$
+\begin{flalign*}
+\hat{n} = \frac{\nabla f}{|f|} &&
+\end{flalign*}
+$$
 
 
 <h2>Differential normal area</h2>
 
-    $$
-    \begin{flalign*}
-    d \vec{A} = dA \cdot \hat{n} &&
-    \end{flalign*}
-    $$
-    
+$$
+\begin{flalign*}
+d \vec{A} = dA \cdot \hat{n} &&
+\end{flalign*}
+$$
