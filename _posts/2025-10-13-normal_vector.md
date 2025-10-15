@@ -6,7 +6,7 @@ use_math: true
 comments: true
 ---
 
-<h2>Gradient</h2>
+### Gradient
 <details>
     <summary>fold/unfold</summary>
     $$
