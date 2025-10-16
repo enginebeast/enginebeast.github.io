@@ -9,10 +9,19 @@ use_math: true
 
 $$C = \frac{q}{V}$$
 
+Its SI unit is farad(F).
+
 ## Capacitor in parallel
+
+In parallel circuit,
+
 $$V = V_1 = V_2 = \cdot\cdot\cdot = V_n$$
 
+and 
+
 $$q = \sum^n_{i=1}q_i$$
+
+Therefore,
 
 $$
 \begin{aligned}
@@ -21,11 +30,17 @@ $$
 \end{aligned}
 $$
 
-## Capacitor in series</h2>
+## Capacitor in series
+
+In series circuits,
 
 $$q = q_1 = q_2 = \cdot\cdot\cdot = q_n$$
 
+and
+
 $$V = \sum^n_{i=1}V_i$$
+
+Therefore,
 
 $$
 \begin{aligned}
