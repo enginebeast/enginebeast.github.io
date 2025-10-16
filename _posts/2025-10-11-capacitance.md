@@ -11,7 +11,7 @@ $$C = \frac{q}{V}$$
 
 Its SI unit is farad(F).
 
-## Capacitor in parallel
+## Capacitors in parallel
 
 In parallel circuit,
 
@@ -30,7 +30,7 @@ $$
 \end{aligned}
 $$
 
-## Capacitor in series
+## Capacitors in series
 
 In series circuits,
 
