@@ -10,8 +10,8 @@ use_math: true
 
 ## Sand to polycrystal silcon
 
-$$SiO_2 + 2C \rightarrow Si + 2CO$$
+SiO$$_2$$ + 2C $$\rightarrow$$ Si + 2CO
 
-$$Si + 3HCl \rightarrow SiHCl_3 + H_2$$
+Si + 3HCl $$\rightarrow$$ SiHCl$$_3$$ + H$$_2$$
 
-$$2SiHCl_3 + 2H_2 \rightarrow 2Si + 6HCl$$
+2SiHCl$$_3$$ + 2H$$_2$$ $$\rightarrow$$ 2Si + 6HCl
