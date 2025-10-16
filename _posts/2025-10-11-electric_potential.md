@@ -13,6 +13,7 @@ $$\Delta U = U_f - U_i = -W$$
 
 When two charged particles are infinitely far apart, their initial potential energy, $$U_i$$ is defined zero. 
 In this scenario, as two particles move closer together, final potential energy is, $$U_f$$ is equal to the negative work done by the electric force.
+
 $$U_f = U = -W$$
 
 Although, infinite distance does not make sense in the real world, this concept serves as usual idealization.
