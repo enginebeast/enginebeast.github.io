@@ -8,7 +8,6 @@ use_math: true
 <h2>Definition of electric potential energy</h2>
 
 Relationship between potential energy and work can be defined by following equation.
-
 $$\Delta U = U_f - U_i = -W$$
 
 When two charged particles are infinitely far apart, their initial potential energy, $$U_i$$ is defined zero. 
@@ -20,7 +19,7 @@ Although, infinite distance does not make sense in the real world, this concept 
 We use it to model the enegy change when two particles begin two interact from a state of no interaction.
 This is similar to how we often use models in physics that ignore friction to simplify problems.
 
-<h2>Definition of electric potential</h2>
+## Definition of electric potential
 
 $$V = \frac{U}{q}$$
 
