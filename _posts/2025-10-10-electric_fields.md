@@ -5,69 +5,44 @@ categories:
 use_math: true
 ---
 
-<h2>Definition</h2>
-    $$
-    \begin{flalign*}
-    \vec{E} = \frac{\vec{F}}{q_0} &&
-    \end{flalign*}
-    $$
+## Definition
 
-    Where, \(q_0\) is test charge which become the standard of electric fields.
-    And its SI unit is a newton per coulomb(N/C).<br>
-    <br>
-    By the <a href="https://enginebeast.github.io/physics_note/charge/">Coulomb's law</a>, we can get the following equation.
-    $$
-    \begin{flalign*}
-    \vec{E} = k_e \frac{qq_0}{r^2}\hat{r}\frac{1}{q_0} = \frac{1}{4\pi\epsilon_0}\frac{q}{r^2}\hat{r} &&
-    \end{flalign*}
-    $$
+$$\vec{E} = \frac{\vec{F}}{q_0}$$
 
-<h2>The electric field due to several point charges</h2>
+Where, $$q_0$$ is test charge which become the standard of electric fields.
+And its SI unit is a newton per coulomb(N/C).
+
+By the [Coulomb's law](charge), we can get the following equation.
+
+$$\vec{E} = k_e \frac{qq_0}{r^2}\hat{r}\frac{1}{q_0} = \frac{1}{4\pi\epsilon_0}\frac{q}{r^2}\hat{r}$$
+
+## The electric field due to several point charges
+
 We can find the net electric field as follows.
 
-$$
-\begin{flalign*}
-\vec{E} = \sum^n_{i=1}\vec{E_i} &&
-\end{flalign*}
-$$
+$$\vec{E} = \sum^n_{i=1}\vec{E_i}$$
 
-<h2>The electric field due to an electric dipole</h2>
-    An electric dipole is a system consisting of two equal and opposite charges, q and -q, separated by certain distance.
-    The equation for a magnitude of its electric field is as follows.
-
-    $$
-    \begin{flalign*}
-    E = k_e \frac{2qd}{z^3} &&
-    \end{flalign*}
-    $$
-
-    Where d is a distance between two charge, and z is a distance between center of two charge and a test charge.
-
-<h2>The electric field due to a continuously distributed charge</h2>
-
-    $$
-    \begin{flalign*}
-    \vec{E} = k_e \int \frac{dq}{r^2}\hat{r} &&
-    \end{flalign*}
-    $$
+## The electric field due to an electric dipole
     
-    Linear charge density
-    $$
-    \begin{flalign*}
-    \lambda = dq/dL &&
-    \end{flalign*}
-    $$
+An electric dipole is a system consisting of two equal and opposite charges, q and -q, separated by certain distance.
+The equation for a magnitude of its electric field is as follows.
 
-    Surface charge density
-    $$
-    \begin{flalign*}
-    \sigma = dq/dA &&
-    \end{flalign*}
-    $$
+$$E = k_e \frac{2qd}{z^3}$$
 
-    Volume charge density
-        $$
-    \begin{flalign*}
-    \rho = dq/dV &&
-    \end{flalign*}
-    $$
+Where d is a distance between two charge, and z is a distance between center of two charge and a test charge.
+
+The electric field due to a continuously distributed charge
+
+$$\vec{E} = k_e \int \frac{dq}{r^2}\hat{r}$$
+
+Linear charge density
+    
+$$\lambda = dq/dL$$
+
+Surface charge density
+
+$$\sigma = dq/dA$$
+
+Volume charge density
+
+$$\rho = dq/dV$$
