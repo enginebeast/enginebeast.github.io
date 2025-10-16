@@ -9,15 +9,15 @@ use_math: true
 
 We define electric flux by following equation.  
 
-$$\Phi = \oint\vec{E}\cdot d\vec{A}$$
+ $$\Phi = \oint\vec{E}\cdot d\vec{A}$$
 
 We can calculate $$d\vec{A}$$ using the following formula.  
   
 For rectangular box,  
 
-$$d\vec{A} = dxdy\hat{z}$$
+$$d\vec{A} = dxdy\hat{z}$$ 
 
-or   
+or 
 
 $$d\vec{A} = dydz\hat{x}$$
 
