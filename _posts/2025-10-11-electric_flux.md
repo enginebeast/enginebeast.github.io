@@ -9,7 +9,7 @@ use_math: true
 
 We define electric flux by following equation.  
 
- $$\Phi = \oint\vec{E}\cdot d\vec{A}$$
+\ $$\Phi = \oint\vec{E}\cdot d\vec{A}$$
 
 We can calculate $$d\vec{A}$$ using the following formula.  
   
