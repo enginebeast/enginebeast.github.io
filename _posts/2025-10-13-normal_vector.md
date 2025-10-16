@@ -8,27 +8,15 @@ comments: true
 
 <h2>Gradient</h2>
 
-$$
-\begin{flalign*}
-\nabla f = \frac{\partial f}{\partial x}\hat{i} +
+$$\nabla f = \frac{\partial f}{\partial x}\hat{i} +
 \frac{\partial f}{\partial y}\hat{j} +
-\frac{\partial f}{\partial z}\hat{k} &&
-\end{flalign*}
-$$
+\frac{\partial f}{\partial z}\hat{k}$$
 
 <h2>Normal unit vector</h2>
 
-$$
-\begin{flalign*}
-\hat{n} = \frac{\nabla f}{|f|} &&
-\end{flalign*}
-$$
+$$\hat{n} = \frac{\nabla f}{|f|}$$
 
 
 <h2>Differential normal area</h2>
 
-$$
-\begin{flalign*}
-d \vec{A} = dA \cdot \hat{n} &&
-\end{flalign*}
-$$
+$$d \vec{A} = dA \cdot \hat{n}$$
