@@ -8,7 +8,6 @@ comments: true
 
 ## Definition of Fourier series
 $$f(x) = a_0 + \sum^\infty_{n=1} a_n \cos nx + \sum^\infty_{n=1} b_n \sin nx$$
-  
 
 ## Formula of Fourier coefficients
 
@@ -20,8 +19,7 @@ $$
 \\
 \\ & b_n = \frac{1}{\pi}\int^\pi_{-\pi}f(x)\sin nxdx
 \end{aligned}
-$$  
-  
+$$
 
 ## Derivation of $$a_0$$
 
@@ -38,12 +36,9 @@ $$
 \end{aligned}
 $$
 
-$$
-\begin{aligned}
-\Rightarrow a_0 = \frac{1}{2\pi}\int^\pi_{-\pi}f(x)dx
-\end{aligned}
-$$  
+Therefore,
 
+$$\Rightarrow a_0 = \frac{1}{2\pi}\int^\pi_{-\pi}f(x)dx$$
 
 ## Derivation of $$a_n$$
 
@@ -59,13 +54,10 @@ $$
 \\
 \end{aligned}
 $$
-$$
-\begin{aligned}
-\\
-\\
-\Rightarrow a_n = \frac{1}{\pi}\int^\pi_{-\pi}f(x)\cos nxdx
-\end{aligned}
-$$  
+
+Therefore,
+
+$$\Rightarrow a_n = \frac{1}{\pi}\int^\pi_{-\pi}f(x)\cos nxdx$$  
 
 ## Derivation of $$b_n$$
 
@@ -82,10 +74,6 @@ $$
 \end{aligned}
 $$
 
-$$
-\begin{aligned}
-\\
-\\
-\Rightarrow b_n = \frac{1}{\pi}\int^\pi_{-\pi}f(x)\sin nxdx
-\end{aligned}
-$$
+Therefore,
+
+$$\Rightarrow b_n = \frac{1}{\pi}\int^\pi_{-\pi}f(x)\sin nxdx$$
