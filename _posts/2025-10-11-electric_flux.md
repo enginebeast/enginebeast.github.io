@@ -5,7 +5,7 @@ categories:
 use_math: true
 ---
 
-<h2>Definition of electric flux</h2>
+## Definition of electric flux
 
 We define electric flux by following equation.  
 
@@ -41,7 +41,7 @@ For surface of sphere,
 
 $$d\vec{A} = r^2 \sin\phi d\theta d\phi \hat{r}$$
     
-<h2>Gauss' law</h2>
+## Gauss' law
 
 After trying to find electric flux, we would realize that it is not easy to calculate it using only its mathematical definition.
 For this reason, we can use Gauss' law which is a method to solve electric flux problems more easier.

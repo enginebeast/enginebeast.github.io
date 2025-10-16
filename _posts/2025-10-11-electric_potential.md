@@ -5,7 +5,7 @@ categories:
 use_math: true
 ---
 
-<h2>Definition of electric potential energy</h2>
+## Definition of electric potential energy
 
 Relationship between potential energy and work can be defined by following equation.
 
