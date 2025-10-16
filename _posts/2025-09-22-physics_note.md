@@ -2,11 +2,11 @@
 title: Physics note
 ---
 
-<h2>Classical mechanics</h2>
+## Classical mechanics
 
 - [Applying kinematic equations by definition](apply_kinematic)
 
-<h2>Electromagnetism</h2>
+## Electromagnetism
 
 - [Charge](charge)
 - [Electric fields](electric_fields)
