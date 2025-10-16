@@ -6,8 +6,6 @@ use_math: true
 ---
 
 <h2>Definition</h2>
-<details>
-    <summary>fold/unfold</summary>
     $$
     \begin{flalign*}
     \vec{E} = \frac{\vec{F}}{q_0} &&
@@ -23,7 +21,6 @@ use_math: true
     \vec{E} = k_e \frac{qq_0}{r^2}\hat{r}\frac{1}{q_0} = \frac{1}{4\pi\epsilon_0}\frac{q}{r^2}\hat{r} &&
     \end{flalign*}
     $$
-</details>
 
 <h2>The electric field due to several point charges</h2>
 We can find the net electric field as follows.
@@ -35,8 +32,6 @@ $$
 $$
 
 <h2>The electric field due to an electric dipole</h2>
-<details>
-    <summary>fold/unfold</summary>
     An electric dipole is a system consisting of two equal and opposite charges, q and -q, separated by certain distance.
     The equation for a magnitude of its electric field is as follows.
 
@@ -47,11 +42,9 @@ $$
     $$
 
     Where d is a distance between two charge, and z is a distance between center of two charge and a test charge.
-</details>
 
 <h2>The electric field due to a continuously distributed charge</h2>
-<details>
-    <summary>fold/unfold</summary>
+
     $$
     \begin{flalign*}
     \vec{E} = k_e \int \frac{dq}{r^2}\hat{r} &&
@@ -78,4 +71,3 @@ $$
     \rho = dq/dV &&
     \end{flalign*}
     $$
-</details>
