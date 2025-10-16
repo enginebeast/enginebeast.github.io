@@ -6,11 +6,11 @@ use_math: true
 comments: true
 ---
 
-### Definition of Fourier series
+## Definition of Fourier series
 $$f(x) = a_0 + \sum^\infty_{n=1} a_n \cos nx + \sum^\infty_{n=1} b_n \sin nx$$
   
 
-### Formula of Fourier coefficients
+## Formula of Fourier coefficients
 
 $$
 \begin{aligned}
@@ -23,7 +23,8 @@ $$
 $$  
   
 
-### Derivation of $$a_0$$
+## Derivation of $$a_0$$
+
 $$
 \begin{aligned}
 \int^\pi_{-\pi}f(x)dx &= \int^\pi_{-\pi} \Bigg[ a_0 + \sum^\infty_{n=1} a_n \cos nx + \sum^\infty_{n=1} b_n \sin nx \Bigg]dx
@@ -44,9 +45,10 @@ $$
 $$  
 
 
-### Derivation of $$a_n$$
+## Derivation of $$a_n$$
+
 $$
-\begin{align}
+\begin{aligned}
 \int^\pi_{-\pi}f(x)\cos ndx &= \int^\pi_{-\pi} \Bigg[ a_0 + \sum^\infty_{m=1} a_m \cos mx + \sum^\infty_{m=1} b_m \sin mx \Bigg]\cos nxdx
 \\
 \\ & = \int^\pi_{-\pi}a_0\cos nxdx + \sum^\infty_{m=1}\int^\pi_{-\pi}a_m \cos mx\cos nxdx + \sum^\infty_{m=1}\int^\pi_{-\pi}b_m \sin mx\cos nxdx
@@ -55,20 +57,20 @@ $$
 \\
 \\ & = \pi a_n 
 \\
-\end{align}
+\end{aligned}
 $$
 $$
-\begin{align}
+\begin{aligned}
 \\
 \\
 \Rightarrow a_n = \frac{1}{\pi}\int^\pi_{-\pi}f(x)\cos nxdx
-\end{align}
+\end{aligned}
 $$  
 
+## Derivation of $$b_n$$
 
-### Derivation of $$b_n$$
 $$
-\begin{align}
+\begin{aligned}
 \int^\pi_{-\pi}f(x)\sin ndx &= \int^\pi_{-\pi} \Bigg[ a_0 + \sum^\infty_{m=1} a_m \cos mx + \sum^\infty_{m=1} b_m \sin mx \Bigg]\sin nxdx
 \\
 \\ & = \int^\pi_{-\pi}a_0\sin nxdx + \sum^\infty_{m=1}\int^\pi_{-\pi}a_m \cos mx\sin nxdx + \sum^\infty_{m=1}\int^\pi_{-\pi}b_m \sin mx\sin nxdx
@@ -77,12 +79,13 @@ $$
 \\
 \\ & = \pi b_n 
 \\
-\end{align}
+\end{aligned}
 $$
+
 $$
-\begin{align}
+\begin{aligned}
 \\
 \\
 \Rightarrow b_n = \frac{1}{\pi}\int^\pi_{-\pi}f(x)\sin nxdx
-\end{align}
+\end{aligned}
 $$
