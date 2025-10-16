@@ -12,6 +12,10 @@ use_math: true
 
 SiO$$_2$$ + 2C $$\rightarrow$$ Si + 2CO
 
+We call it metallurgical grade silicon(MGS), and it is polycrystal.
+
 Si + 3HCl $$\rightarrow$$ SiHCl$$_3$$ + H$$_2$$
 
 2SiHCl$$_3$$ + 2H$$_2$$ $$\rightarrow$$ 2Si + 6HCl
+
+Now, We call it Electronic grade silicon(EGS). But, it is still polycrystal.
