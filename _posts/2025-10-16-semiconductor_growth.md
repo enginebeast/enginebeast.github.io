@@ -4,6 +4,9 @@ categories:
     - eee_note
 use_math: true
 ---
+## Wafer manufacturing process
+
+<img width="335" height="745" alt="Image" src="https://github.com/user-attachments/assets/5769a8f1-0dcd-46b2-b981-5c903ab25a8a" />
 
 ## Sand to polycrystal silcon
 
