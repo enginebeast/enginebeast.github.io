@@ -33,4 +33,6 @@ $$N_{particle} = \frac{1}{8} \times 8 + \frac{1}{2} \times 6 = 4$$
 
 $$PF = \frac{4 \times \frac{4}{3}\pi(\frac{\sqrt{2}}{4}a)^3}{a^3} = \frac{\sqrt{2}}{6} \pi$$ 
 
-## Diamond cubic
+## Diamond cubic structure
+
+Group IV elements have diamond cubic structure.
