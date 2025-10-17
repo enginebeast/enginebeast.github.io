@@ -35,4 +35,4 @@ $$PF = \frac{4 \times \frac{4}{3}\pi(\frac{\sqrt{2}}{4}a)^3}{a^3} = \frac{\sqrt{
 
 ## Diamond cubic structure
 
-Group IV elements have diamond cubic structure.
+Group IV elements(C, Si, Ge) have diamond cubic structure.
