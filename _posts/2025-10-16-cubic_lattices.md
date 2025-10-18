@@ -38,6 +38,9 @@ $$N_{particle} = \frac{1}{8} \times 8 + \frac{1}{2} \times 6 = 4$$
 $$PF = \frac{4 \times \frac{4}{3}\pi(\frac{\sqrt{2}}{4}a)^3}{a^3} = \frac{\sqrt{2}}{6} \pi$$ 
 
 ## Miller indices
+
+Miller indices is a notation system for lattice plain in crystal lattices. Here are Three basic examples.
+
 <img width="844" height="645" alt="Image" src="https://github.com/user-attachments/assets/9f0376a7-f4f4-4db5-b60a-c5ae97eff473" />
 <100>
 
