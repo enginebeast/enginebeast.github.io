@@ -8,7 +8,7 @@ comments: true
 
 ## Definition of scalar and vector
 
-## Magnitude of scalar
+## Magnitude of vector
 
 ## Dot product
 

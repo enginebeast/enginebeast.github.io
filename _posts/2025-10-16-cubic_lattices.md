@@ -38,7 +38,14 @@ $$N_{particle} = \frac{1}{8} \times 8 + \frac{1}{2} \times 6 = 4$$
 $$PF = \frac{4 \times \frac{4}{3}\pi(\frac{\sqrt{2}}{4}a)^3}{a^3} = \frac{\sqrt{2}}{6} \pi$$ 
 
 ## Miller indices
+<img width="844" height="645" alt="Image" src="https://github.com/user-attachments/assets/9f0376a7-f4f4-4db5-b60a-c5ae97eff473" />
+<100>
 
+<img width="910" height="661" alt="Image" src="https://github.com/user-attachments/assets/91ed4431-c69f-4785-8cb5-4688905dac19" />
+<110>
+
+<img width="892" height="644" alt="Image" src="https://github.com/user-attachments/assets/7d057487-4ba9-47cd-a800-b0a3a75e3c98" />
+<111>
 
 ## Diamond cubic structure
 
