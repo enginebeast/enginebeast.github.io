@@ -31,18 +31,4 @@ $$E = k_e \frac{2qd}{z^3}$$
 
 Where d is a distance between two charge, and z is a distance between center of two charge and a test charge.
 
-The electric field due to a continuously distributed charge
-
-$$\vec{E} = k_e \int \frac{dq}{r^2}\hat{r}$$
-
-Linear charge density
-    
-$$\lambda = dq/dL$$
-
-Surface charge density
-
-$$\sigma = dq/dA$$
-
-Volume charge density
-
-$$\rho = dq/dV$$
+## Find electric fields using integral
