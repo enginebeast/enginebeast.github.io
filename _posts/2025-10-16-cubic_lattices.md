@@ -21,7 +21,7 @@ $$N_{particle} = \frac{1}{8} \times 8 = 1$$
 
 $$PF = \frac{1 \times \frac{4}{3}\pi(\frac{1}{2}a)^3}{a^3} = \frac{1}{6} \pi$$ 
 
-A simple cubic structure is rare due to 
+A simple cubic structure is rare due to low packing density.
 
 ## Body-centered cubic structure
 
