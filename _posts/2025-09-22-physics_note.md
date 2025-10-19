@@ -2,9 +2,10 @@
 title: Physics note
 ---
 
-## Classical mechanics
+<!--## Classical mechanics
 
-- [Applying kinematic equations by definition](apply_kinematic)
+- [Applying kinematic equations by definition](constant_acceleration)
+- Rotation -->
 
 ## Electromagnetism
 

@@ -1,5 +1,5 @@
 ---
-title: "Applying kinematic equations by definition"
+title: "Constant acceleration"
 categories:
     - physics_note
 use_math: true
