@@ -12,7 +12,7 @@ $$\vec{E} = \frac{\vec{F}}{q_0}$$
 Where, $$q_0$$ is test charge which become the standard of electric fields.
 And its SI unit is a newton per coulomb(N/C).
 
-By the [Coulomb's law](charge), we can get the following equation.
+By the [Coulomb's law](https://enginebeast.github.io/physics_note/charge/), we can get the following equation.
 
 $$\vec{E} = k_e \frac{qq_0}{r^2}\hat{r}\frac{1}{q_0} = \frac{1}{4\pi\epsilon_0}\frac{q}{r^2}\hat{r}$$
 
@@ -37,7 +37,7 @@ $$\vec{p} = q\vec{d}$$
 
 And, we call $$\vec{p}$$ the electric dipole moment. Please remember it, because it uses too when studying the torque on an electric dipole.
 
-## Find electric fields using integral
+<!--## Find electric fields using integral-->
 
 ## Torque of electric dipole
 In classical mechanics, torque, $$\tau$$ is defined by the following equation.
