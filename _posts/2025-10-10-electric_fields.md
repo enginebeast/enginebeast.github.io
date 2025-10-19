@@ -27,8 +27,32 @@ $$\vec{E} = \sum^n_{i=1}\vec{E_i}$$
 An electric dipole is a system consisting of two equal and opposite charges, q and -q, separated by certain distance.
 The equation for a magnitude of its electric field is as follows.
 
-$$E = k_e \frac{2qd}{z^3}$$
+$$E = k_e \frac{2q\vec{d}}{z^3}$$
 
 Where d is a distance between two charge, and z is a distance between center of two charge and a test charge.
 
+Also, we can indicate $$q\vec{d}$$ as follows.
+
+$$\vec{p} = q\vec{d}$$
+
+And, we call $$\vec{p}$$ as electric dipole moment.
+
 ## Find electric fields using integral
+
+## Torque of electric dipole moment
+In classic mechanics Torque, $$\tau$$ is defined by the following equation
+
+$$\vec{\tau} = \vec{r} \times \vec{F}$$
+
+And we now know relation between force and electric field.
+
+$$\vec{F} = q\vec{E}$$
+
+And by combining first and second equations, we can get a following equation.
+
+$$
+\begin{aligned}
+\vec{\tau} & = \vec{r} \times q\vec{E}
+\\& =q\vec{r} \times \vec{E}
+\end{aligned}
+$$
