@@ -40,7 +40,7 @@ And, we call $$\vec{p}$$ as electric dipole moment. Please remember it, because 
 ## Find electric fields using integral
 
 ## Torque of electric dipole
-In classic mechanics Torque, $$\tau$$ is defined by the following equation
+In classic mechanics Torque, $$\tau$$ is defined by the following equation.
 
 $$\vec{\tau} = \vec{r} \times \vec{F}$$
 
