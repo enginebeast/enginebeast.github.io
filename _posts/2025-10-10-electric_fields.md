@@ -35,11 +35,11 @@ Also, we can indicate $$q\vec{d}$$ as follows.
 
 $$\vec{p} = q\vec{d}$$
 
-And, we call $$\vec{p}$$ as electric dipole moment.
+And, we call $$\vec{p}$$ as electric dipole moment. Please remember it, because it uses too when we study torque of electric dipole
 
 ## Find electric fields using integral
 
-## Torque of electric dipole moment
+## Torque of electric dipole
 In classic mechanics Torque, $$\tau$$ is defined by the following equation
 
 $$\vec{\tau} = \vec{r} \times \vec{F}$$
@@ -54,5 +54,6 @@ $$
 \begin{aligned}
 \vec{\tau} & = \vec{r} \times q\vec{E}
 \\& =q\vec{r} \times \vec{E}
+\\& =\vec{p} \times \vec{E}
 \end{aligned}
 $$
