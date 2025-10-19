@@ -7,6 +7,8 @@ use_math: true
 
 ## Definition
 
+Electric fields is defined by the following equation.
+
 $$\vec{E} = \frac{\vec{F}}{q_0}$$
 
 Where, $$q_0$$ is test charge which become the standard of electric fields.
