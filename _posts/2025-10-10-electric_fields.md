@@ -31,24 +31,24 @@ $$E = k_e \frac{2q\vec{d}}{z^3}$$
 
 Where d is a distance between two charge, and z is a distance between center of two charge and a test charge.
 
-Also, we can indicate $$q\vec{d}$$ as follows.
+We can express $$q\vec{d}$$ as follows.
 
 $$\vec{p} = q\vec{d}$$
 
-And, we call $$\vec{p}$$ as electric dipole moment. Please remember it, because it uses too when we study torque of electric dipole
+And, we call $$\vec{p}$$ the electric dipole moment. Please remember it, because it uses too when studying the torque on an electric dipole.
 
 ## Find electric fields using integral
 
 ## Torque of electric dipole
-In classic mechanics Torque, $$\tau$$ is defined by the following equation.
+In classical mechanics, torque, $$\tau$$ is defined by the following equation.
 
 $$\vec{\tau} = \vec{r} \times \vec{F}$$
 
-And we now know relation between force and electric field.
+And we now know the relation between force and the electric field.
 
 $$\vec{F} = q\vec{E}$$
 
-And by combining first and second equations, we can get a following equation.
+And by combining the first and second equations, we can get the following equation.
 
 $$
 \begin{aligned}
