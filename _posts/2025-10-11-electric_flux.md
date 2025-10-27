@@ -52,3 +52,11 @@ Where $$q_{enc}$$ is net charge, and $$\epsilon_0$$ is permittivity of free spac
   
 If $$q_{enc}$$ is positive, a net flux heads to the outside. 
 And if $$q_{enc}$$ is negative, a net flux heads to the inside.
+
+<!--
+## Case of cylindrical symmetry
+
+## Case of planar symmetry
+
+## Case of spherical symmetry
+-->
