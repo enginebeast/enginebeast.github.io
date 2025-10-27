@@ -1,5 +1,5 @@
 ---
-title: "circuit for Arduino RC car"
+title: "Circuit for Arduino RC car"
 categories:
   - smallcar
 comments: true
