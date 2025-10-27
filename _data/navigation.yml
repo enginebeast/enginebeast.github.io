@@ -5,18 +5,6 @@ main:
 
 # categories
 docs:
-  - title: Math note
-    url: /math_note/
-    category_name: math_note
-
-  - title: Physics note
-    url: /physics_note/
-    category_name: physics_note
-  
-  - title: EEE note
-    url: /eee_note/
-    category_name: eee_note
-  
   - title: Small car project
     url: /smallcar/
     category_name: smallcar
