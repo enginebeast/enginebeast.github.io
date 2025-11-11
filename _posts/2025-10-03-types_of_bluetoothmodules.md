@@ -5,10 +5,12 @@ categories:
 comments: true
 ---
 
-![Screenshot_20250816_233936](https://github.com/user-attachments/assets/e417773a-fe2a-4944-8496-c7fe2f5ccf32)
-
 After, I conneted the Bluetooth module with arduino board and started looking for the Bluetooth code on the app's link list. However I couldn't find it. 
 
-<img src ="https://github.com/user-attachments/assets/b89ba4a0-09fb-4b17-a83e-9b0d80c383b2" width ="400">
+At first, I thought I had made an error in my arduino code, or in the circuit wiring, but after some searching I could find another problem. 
 
-At first, I thought I had made an error in my arduino code, or in the circuit wiring, but after some searching I could find another problem. The Bluetooth module I purchase, HM-10, doesn't support a basic Bluetooth link. So I had to purchase an HC-06 Bluetooth module, which supports a basic Bluetooth link. From this experience, I realized importance researching commonly usedcomponent, and characteristics of parts I purchase.
+![Image](https://github.com/user-attachments/assets/6872ece0-f84f-49de-a43a-4683b6cb2dda)
+
+The Bluetooth module I purchase, HM-10, doesn't support a basic Bluetooth link. It uses specific bluetooth app, nRF connect for mobile. But, it cannot link to app created by MIT app conventor. So, I need to purchase other model to support basic Bluetooth link.
+
+So I had to purchase an HC-06 Bluetooth module, which supports a basic Bluetooth link. From this experience, I realized importance researching commonly usedcomponent, and characteristics of parts I purchase.
