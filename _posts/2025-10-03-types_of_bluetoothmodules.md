@@ -5,7 +5,7 @@ categories:
 comments: true
 ---
 
-After, I conneted the Bluetooth module with arduino board and started looking for the Bluetooth code on the app's link list. However I couldn't find it. 
+After, I connected the Bluetooth module with arduino board and started looking for the Bluetooth code in the app's link list. However I couldn't find it. 
 
 At first, I thought I had made an error in my arduino code, or in the circuit wiring, but after some searching I could find another problem. 
 
