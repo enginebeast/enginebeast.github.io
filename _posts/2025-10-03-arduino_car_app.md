@@ -1,5 +1,5 @@
 ---
-title: "Remote control app for Arduino RC car"
+title: "RC app for Arduino RC car"
 categories:
   - smallcar
 comments: true
