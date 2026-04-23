@@ -8,7 +8,7 @@ comments: true
 ### Process
 First, I programmed a servo motor to change angle gradually.
 
-```
+```cpp
 #include <Servo.h>
 
 Servo servo1;
