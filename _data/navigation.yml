@@ -8,4 +8,6 @@ docs:
   - title: Small car project
     url: /smallcar/
     category_name: smallcar
-  
+  - title: others
+    url: /others/
+    category_name: others

@@ -288,6 +288,9 @@ whitelist:
 smallcar_archive:
   type: liquid
   path: /smallcar/
+others_archive:
+  type: liquid
+  path: /others/
 
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
