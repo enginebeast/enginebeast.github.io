@@ -20,7 +20,6 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Engine Beast : Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-avatar                   : "/assets/images/profile.jpg"
 name                     : "Engine Beast : Alpha"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -115,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Engine Beast : Alpha"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.jpg"
   bio              : "Engine Beast means a beast created by engineering."
   location         : "Somewhere on Earth"
   email            :
