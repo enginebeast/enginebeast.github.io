@@ -1,5 +1,5 @@
 ---
-title: "RC app for Ardunio RC car ver.2"
+title: "Controlling a servo motor through laptop connection"
 categories:
   - car_project
 comments: true
