@@ -1,7 +1,7 @@
 ---
 title: "RC app for Arduino RC car"
 categories:
-  - smallcar
+  - car_project
 comments: true
 ---
 

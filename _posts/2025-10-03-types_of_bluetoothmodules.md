@@ -1,7 +1,7 @@
 ---
 title: "Types of bluetooth modules"
 categories:
-  - smallcar
+  - car_project
 comments: true
 ---
 
