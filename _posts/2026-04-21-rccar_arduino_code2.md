@@ -1,5 +1,5 @@
 ---
-title: "RC app for Arduino RC car ver.2"
+title: "Arduino code for RC car ver.2"
 categories:
   - car_project
 comments: true
