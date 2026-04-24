@@ -5,9 +5,9 @@ main:
 
 # categories
 docs:
-  - title: Small car project
-    url: /smallcar/
-    category_name: smallcar
+  - title: car project
+    url: /car_project/
+    category_name: car_project
   - title: others
     url: /others/
     category_name: others

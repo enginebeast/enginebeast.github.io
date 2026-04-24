@@ -285,9 +285,9 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path>/my-awesome-category/index.html ~> path: /
-smallcar_archive:
+car_archive:
   type: liquid
-  path: /smallcar/
+  path: /car_project/
 others_archive:
   type: liquid
   path: /others/
