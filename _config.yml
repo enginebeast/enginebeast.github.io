@@ -36,6 +36,7 @@ copyright_url            : # "copyright" URL, defaults to site.url
 comments:
   provider               : "utterances"
   utterances:
+    repo                 : "enginebeast/enginebeast.github.io"
     theme                : "github-light"
     issue_term           : "pathname"
   staticman:
