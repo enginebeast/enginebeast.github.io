@@ -4,7 +4,7 @@ categories:
   - car_project
 ---
 
-You can see all code here [link].
+You can find full code [here](https://github.com/enginebeast/ArduinoRCcar/blob/main/Control_car_ver2.ino). This page is just for recording what I learned from the project, so it doesn't include all the code.
 
 From version 1 of RC car code, it cannot drive and steer at once. But, by adding the slider for steering, I can solve this problem. This is the code to get the data from remote control and computing it.
 
