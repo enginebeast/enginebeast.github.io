@@ -2,7 +2,6 @@
 title: "Taking apart an RC car"
 categories: 
     - car_project
-comments: true
 ---
 
 Purpose: to understand the structure of the driving system and steering system of an RC car  

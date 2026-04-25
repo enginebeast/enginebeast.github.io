@@ -2,7 +2,6 @@
 title: "Types of bluetooth modules"
 categories:
   - car_project
-comments: true
 ---
 
 After, I connected the Bluetooth module with arduino board and started looking for the Bluetooth code in the app's link list. However I couldn't find it. 

@@ -2,7 +2,6 @@
 title: "Arduino code for RC car ver.2"
 categories:
   - car_project
-comments: true
 ---
 
 You can see all code here [link].

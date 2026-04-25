@@ -2,7 +2,6 @@
 title: "RC app for Arduino RC car"
 categories:
   - car_project
-comments: true
 ---
 
 While working on my project, I realized that IR remote control wasn't suitable my project. The IR sensor doesn't work properly when obstacles block the signal. So, I decided to find another way to control my RC car.
