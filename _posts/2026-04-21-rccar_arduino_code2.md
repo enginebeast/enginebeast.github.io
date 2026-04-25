@@ -128,6 +128,4 @@ Arduino don't know the end of the String data.
   }
   }
 }
-
-
 ```
