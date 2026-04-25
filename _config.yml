@@ -21,7 +21,7 @@ title                    : "Engine Beast : Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Engine Beast : Alpha"
-description              : "An amazing website."
+description              : "GRRAAAAR. Engine beast roared. Engine beast is very strong, so it defeats all machines."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Engine Beast : Alpha"
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "Engine Beast means a beast created by engineering."
+  bio              : "GRRAAAAR. Engine beast roared. Engine beast is very strong, so it defeats all machines."
   location         : "Somewhere on Earth"
   email            :
   links:
