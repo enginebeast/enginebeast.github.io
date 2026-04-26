@@ -6,7 +6,7 @@ categories:
 
 You can find full code [here](https://github.com/enginebeast/ArduinoRCcar/blob/main/Control_car_ver2.ino). This page is just for recording what I learned from the project, so it doesn't include all the code.
 
-From version 1 of RC car code, it cannot drive and steer at once. But, by adding the slider for steering, I can solve this problem. This is the code to get the data from remote control and computing it.
+In version 1 of the RC car code, the car cannot drive and steer at the same time. However, by adding the steering slider, I was able to solve this problem. The following code receives data from the app and processes it.
 
 ```cpp
   String input;
@@ -24,9 +24,7 @@ From version 1 of RC car code, it cannot drive and steer at once. But, by adding
   steer = steerStr.toInt();
 ```
 
-First, Bluetooth must get driving and steering angle data from RC app. But, Bluetooth module cannot get 2 data at once. So, I have to use a way get a String data. To get a String data, I must use readStringUntil('\n') instead of read().
-
-What 
+First, Bluetooth must get driving and steering angle data from RC app. But, Bluetooth module cannot get 2 data at once. So, I have to use a way get a String data. To get a String data, I must use ```readStringUntil('\n')``` instead of ```read()```.
 
 Arduino don't know the end of the String data.
   
