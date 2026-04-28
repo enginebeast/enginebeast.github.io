@@ -6,7 +6,7 @@ categories:
 
 You can find full code [here](https://github.com/enginebeast/ArduinoRCcar/blob/main/Control_car_ver2.ino). This page is just for recording what I learned from the project, so it doesn't include all the code.
 
-In version 1 of the RC car code, the car cannot drive and steer at the same time. However, by adding the steering slider, I was able to solve this problem. The following code receives data from the app and processes it.
+In version 1 of the RC car code, the car cannot drive and steer at the same time. However, by adding the steering slider on the RC app, I was able to solve this problem. The following code receives data from the app and processes it.
 
 ```cpp
   String input;
@@ -24,9 +24,9 @@ In version 1 of the RC car code, the car cannot drive and steer at the same time
   steer = steerStr.toInt();
 ```
 
-First, Bluetooth must get driving and steering angle data from RC app. But, Bluetooth module cannot get 2 data at once. So, I have to use a way get a String data. To get a String data, I must use ```readStringUntil('\n')``` instead of ```read()```.
+First, Bluetooth must get driving data and steering angle data from RC app. But, Bluetooth module cannot get 2 data at once. So, I have to use a way get a String data. To get a String data, I must use ```readStringUntil('\n')``` instead of ```read()```.
 
-Arduino don't know the end of the String data.
+Arduino don't know the end of the String data unless I specify the endpoint. (Computers are the same way6.) This is why we use the endpoints in low-level languages, and the newline character is the most common type.
   
 ```cpp
   //Stop
@@ -41,7 +41,7 @@ Arduino don't know the end of the String data.
 
   //Forward
   else if (drive == "F"){
-    //Left
+    //More Left
     if (1 <= steer && steer < 256){
       digitalWrite(in1, LOW);
       digitalWrite(in2, HIGH);
@@ -71,7 +71,7 @@ Arduino don't know the end of the String data.
       analogWrite(speed_b, 767 - steer);
     }
 
-    //Right
+    //More Right
     else if (769 <= steer && steer <= 1023){
       digitalWrite(in1, HIGH);
       digitalWrite(in2, LOW);
@@ -84,7 +84,7 @@ Arduino don't know the end of the String data.
 
   //Backward
   else if (drive == "B"){
-    //Left
+    //More Left
     if (1 <= steer && steer <= 255){
       digitalWrite(in1, HIGH);
       digitalWrite(in2, LOW);
@@ -114,7 +114,7 @@ Arduino don't know the end of the String data.
       analogWrite(speed_b, 767 - steer);
     }
 
-    //Right
+    //More right
     else if (769 <= steer & steer <= 1023){
       digitalWrite(in1, LOW);
       digitalWrite(in2, HIGH);
@@ -127,3 +127,5 @@ Arduino don't know the end of the String data.
   }
 }
 ```
+
+After finding a slider UI, the way to steering became so simple. It's just had to slow down the wheel of side of the turn. Doing the math manually was far too tedious.
