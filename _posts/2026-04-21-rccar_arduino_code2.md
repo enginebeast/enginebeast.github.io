@@ -26,7 +26,7 @@ In version 1 of the RC car code, the car cannot drive and steer at the same time
 
 First, Bluetooth must get driving data and steering angle data from RC app. But, Bluetooth module cannot get 2 data at once. So, I have to use a way get a String data. To get a String data, I must use ```readStringUntil('\n')``` instead of ```read()```.
 
-Arduino don't know the end of the String data unless I specify the endpoint. (Computers are the same way6.) This is why we use the endpoints in low-level languages, and the newline character is the most common type.
+Arduino don't know the end of the String data unless I specify the endpoint. (Computers are the same way.) This is why we use the endpoints in low-level languages, and the newline character is the most common type.
   
 ```cpp
   //Stop
