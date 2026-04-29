@@ -107,4 +107,4 @@ void loop() {
 }
 ```
 
-But this code has two serious issues. First, when I press the steering button, the car simply turns in space. Second, because of this, it cannot drive and steer at the same time. These problems are addressed in [next code](car_project/rccar_arduino_code2/).
+But this code has two serious issues. First, when I press the steering button, the car simply turns in space. Second, because of this, it cannot drive and steer at the same time. These problems are addressed in [next code](../rccar_arduino_code2/).
