@@ -1,5 +1,5 @@
 ---
-title: "Body of the RC car"
+title: "Hardware of the RC car"
 categories:
   - car_project
 ---
