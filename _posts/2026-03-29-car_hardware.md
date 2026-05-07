@@ -9,6 +9,11 @@ categories:
 <img width="300" height="400" alt="Image" src="https://github.com/user-attachments/assets/1817120f-515d-41d3-8bfe-f9e31355bb3d" />
 
 ### Components
-- Arduino board
-- Foam core
-- 9V battery
+- Foam core: materials for car body
+- Arduino board: Brain of this project
+- Motor driver
+- Motor * 4
+- Plastic wheel * 4
+- Bluetooth module
+- 9V battery * 2: One is power for arduino, and another is power for motor driver.
+- Battery case
