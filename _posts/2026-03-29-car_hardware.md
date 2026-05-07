@@ -17,3 +17,4 @@ categories:
 - Bluetooth module
 - 9V battery * 2: One is power for arduino, and another is power for motor driver.
 - Battery case
+- Bolts and nuts
