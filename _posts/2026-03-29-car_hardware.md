@@ -18,3 +18,5 @@ categories:
 - 9V battery * 2: One is power for arduino, and another is power for motor driver.
 - Battery case
 - Bolts and nuts
+
+<img width="540" height="360" alt="Image" src="https://github.com/user-attachments/assets/51fbbc7e-2788-4ab2-805c-ab10970d029e" />
