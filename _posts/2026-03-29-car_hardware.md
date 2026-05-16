@@ -19,4 +19,6 @@ categories:
 - Battery case
 - Bolts and nuts
 
+### Foam core as a material for car body
+
 <img width="540" height="360" alt="Image" src="https://github.com/user-attachments/assets/51fbbc7e-2788-4ab2-805c-ab10970d029e" />
