@@ -14,7 +14,6 @@ Actually, my original goal was to create the autonomous mini forklift to be appl
 - [Hardware of the RC car](car_hardware)
 
 ## Building an RC car with Raspberry Pi
-- [Processing images](processing_images)
 
 ## Building an autonomous small car
 
