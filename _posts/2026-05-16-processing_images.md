@@ -4,9 +4,6 @@ categories:
   - others
 ---
 
-### What are opencv and yolo.
-open cv is library. And yolo is an AI model which was teached.
-
 I used [this post](https://codingwithyou.tistory.com/114?category=1161076).(Caution: It was written with Korean.)
 
 <img width="1000" height="500" alt="Image" src="https://github.com/user-attachments/assets/01b94567-cef8-4d28-b182-499fe6e3b247" />
