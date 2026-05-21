@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Open cv and YOLO"
 categories:
-  - others
+  - vision_project
 ---
 
 I used [this post](https://codingwithyou.tistory.com/114?category=1161076).(Caution: It was written with Korean.)
