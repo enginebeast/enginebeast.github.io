@@ -269,6 +269,9 @@ whitelist:
 car_archive:
   type: liquid
   path: /car_project/
+vision_archive:
+  type: liquid
+  path: /vision_project/
 others_archive:
   type: liquid
   path: /others/
