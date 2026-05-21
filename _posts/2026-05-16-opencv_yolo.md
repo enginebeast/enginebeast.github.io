@@ -1,5 +1,5 @@
 ---
-title: "Processing images"
+title: "Introduction to Open cv and YOLO"
 categories:
   - others
 ---
