@@ -4,4 +4,4 @@ categories:
   - car_project
 ---
 
-[https://medium.com/@mrhwick/simple-lane-detection-with-opencv-bfeb6ae54ec0]
+https://medium.com/@mrhwick/simple-lane-detection-with-opencv-bfeb6ae54ec0
