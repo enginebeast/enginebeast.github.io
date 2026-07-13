@@ -15,6 +15,7 @@ Actually, my original goal was to create the autonomous mini forklift to be appl
 
 ## Building an RC car with Raspberry Pi
 - [Plans](plans)
+- [Lane detection with Open CV](lane_detection)
 
 ## Building an autonomous small car
 
