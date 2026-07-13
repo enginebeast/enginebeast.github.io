@@ -8,9 +8,6 @@ docs:
   - title: car project
     url: /car_project/
     category_name: car_project
-  - title: vision project
-    url: /vision_project/
-    category_name: vision_project
   - title: others
     url: /others/
     category_name: others
