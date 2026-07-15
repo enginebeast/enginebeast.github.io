@@ -12,13 +12,16 @@ categories:
 - Foam core: material for car body
 
 <img width="540" height="360" alt="Image" src="https://github.com/user-attachments/assets/51fbbc7e-2788-4ab2-805c-ab10970d029e" />
-
 - Arduino board: Brain of this project
+
 <img width="640" height="524" alt="Image" src="https://github.com/user-attachments/assets/258077a7-da0b-4c2e-8830-11e939b12255" />
 - Motor driver
 - Motor * 4
 - Plastic wheel * 4
-- Bluetooth module
+
+<img width="1500" height="1500" alt="Image" src="https://github.com/user-attachments/assets/dede3456-03dd-46b2-95ee-fba03ea2662b" />
+- Bluetooth module HC-06
+
 - 9V battery * 2: One is power for arduino, and another is power for motor driver.
 - Battery case
 - Bolts and nuts
