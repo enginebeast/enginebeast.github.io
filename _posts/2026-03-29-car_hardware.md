@@ -19,7 +19,7 @@ categories:
 - Motor * 4
 - Plastic wheel * 4
 
-<img width="1500" height="1500" alt="Image" src="https://github.com/user-attachments/assets/dede3456-03dd-46b2-95ee-fba03ea2662b" />
+<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/dede3456-03dd-46b2-95ee-fba03ea2662b" />
 - Bluetooth module HC-06
 
 - 9V battery * 2: One is power for arduino, and another is power for motor driver.
