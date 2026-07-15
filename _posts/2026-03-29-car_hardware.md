@@ -9,8 +9,11 @@ categories:
 <img width="300" height="400" alt="Image" src="https://github.com/user-attachments/assets/1817120f-515d-41d3-8bfe-f9e31355bb3d" />
 
 ### Components
-- Foam core: materials for car body
+- Foam core: material for car body
+
+<img width="540" height="360" alt="Image" src="https://github.com/user-attachments/assets/51fbbc7e-2788-4ab2-805c-ab10970d029e" />
 - Arduino board: Brain of this project
+<img width="640" height="524" alt="Image" src="https://github.com/user-attachments/assets/258077a7-da0b-4c2e-8830-11e939b12255" />
 - Motor driver
 - Motor * 4
 - Plastic wheel * 4
@@ -21,4 +24,3 @@ categories:
 
 ### Foam core as a material for car body
 
-<img width="540" height="360" alt="Image" src="https://github.com/user-attachments/assets/51fbbc7e-2788-4ab2-805c-ab10970d029e" />
