@@ -12,6 +12,7 @@ categories:
 - Foam core: material for car body
 
 <img width="540" height="360" alt="Image" src="https://github.com/user-attachments/assets/51fbbc7e-2788-4ab2-805c-ab10970d029e" />
+
 - Arduino board: Brain of this project
 <img width="640" height="524" alt="Image" src="https://github.com/user-attachments/assets/258077a7-da0b-4c2e-8830-11e939b12255" />
 - Motor driver
@@ -21,6 +22,13 @@ categories:
 - 9V battery * 2: One is power for arduino, and another is power for motor driver.
 - Battery case
 - Bolts and nuts
+- Jump wires
 
-### Foam core as a material for car body
+<img width="600" height="450" alt="Image" src="https://github.com/user-attachments/assets/4fbd9163-4843-454b-b7ce-793c63b0c1b4" />
+- Lead wires
 
+<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/31de3572-b10f-4f70-a81f-fede2e734fd4" />
+- Male crimp pins
+
+<img width="550" height="550" alt="Image" src="https://github.com/user-attachments/assets/23a33b7a-502a-46f1-9769-5f24d2d50631" />
+- Jumper wire housings
