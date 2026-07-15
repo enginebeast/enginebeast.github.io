@@ -27,5 +27,7 @@ plt.show()
 
 <img width="626" height="541" alt="Image" src="https://github.com/user-attachments/assets/1bc1f923-ca45-4237-83d6-cf0c0923308b" />
 
+https://www.youtube.com/watch?v=3zE010sjwDw
+
 ## Source
 <https://medium.com/@mrhwick/simple-lane-detection-with-opencv-bfeb6ae54ec0>
