@@ -15,7 +15,8 @@ categories:
 - Arduino board: Brain of this project
 
 <img width="640" height="524" alt="Image" src="https://github.com/user-attachments/assets/258077a7-da0b-4c2e-8830-11e939b12255" />
-- Motor driver
+- Motor driver: Electrical device  that acts as a bridge between a low-power microcontroller and a high-power motor
+
 - Motor * 4
 - Plastic wheel * 4
 
