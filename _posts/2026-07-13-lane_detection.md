@@ -50,7 +50,7 @@ cannyed_image = cv2.Canny(gray_image, 100, 200)
 
 <img width="626" height="541" alt="Image" src="https://github.com/user-attachments/assets/1bc1f923-ca45-4237-83d6-cf0c0923308b" />
 
-## Apply to video
+## Apply to a video
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe
     src="https://www.youtube.com/embed/3zE010sjwDw"
@@ -62,9 +62,9 @@ cannyed_image = cv2.Canny(gray_image, 100, 200)
   </iframe>
 </div>
 
-You can download the vidoe, [here](https://github.com/udacity/CarND-LaneLines-P1/blob/master/test_videos/solidWhiteRight.mp4).
+You can download the video [here](https://github.com/udacity/CarND-LaneLines-P1/blob/master/test_videos/solidWhiteRight.mp4).
 
-## 마무리
+## Conclusion
 글에서는 컴퓨터 내에서 영상을 받아서 도로 선을 인지한 새로운 영상을 만들어낸 것이다. 하지만 실제 자율 주행 자동차에서는 도로 선을 매 순간마다 인지하고 그에 따라 판단을 하는 과정을 반복하는 것이 필요할 것이다.
 
 이 과정은 실제로 라즈베리파이를 통해 만든 차체를 통해 해보도록 하겠다.
