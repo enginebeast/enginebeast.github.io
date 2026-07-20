@@ -4,6 +4,9 @@ categories:
   - car_project
 ---
 
+## Introduction
+
+## Display the image
 <img width="625" height="548" alt="Image" src="https://github.com/user-attachments/assets/cfbb7976-3283-4093-a8b9-0774533499df" />
 
 ```py
@@ -18,6 +21,7 @@ plt.imshow(image)
 plt.show()
 ```
 
+## Convert the image to grayscale
 <img width="628" height="554" alt="Image" src="https://github.com/user-attachments/assets/315f7f6c-a1d7-4677-b91e-43fe12e5f8f8" />
 
 
@@ -29,6 +33,7 @@ gray_image = cv2.cvtColor(image, cv2.COLOR_RGB2GRAY)
 
 Although the color image of the displayed result is not gray, you don't need to worry. It is not an error. It is simply the default colormap used by the library. you can display it in 'true' grayscale, but it is not necessary.
 
+## Detect the edges
 <img width="629" height="543" alt="Image" src="https://github.com/user-attachments/assets/7fbfe7c7-8db4-4f41-b2b7-9aadf924f41e" />
 
 Next, we need to detect the edges in the image, where the pixel intensity(brightness) changes rapidly. For this, we use the Canny Edge detection algorithm. Fortunately, we don't need to understand the mathematical details for it. OpenCV already implements this algorithm.
