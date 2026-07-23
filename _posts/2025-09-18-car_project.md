@@ -20,5 +20,4 @@ Actually, my original goal was to create the autonomous mini forklift to be appl
 ## Building an autonomous small car
 
 ## Trials
-
 - [Taking apart an RC car](apart_rccar)
