@@ -10,7 +10,7 @@ categories:
 
 Servo steer;
 int Rx = 6; //Receiving pin
-int Tx = 7; //Transmitting 
+int Tx = 7; //Transmitting pin
 int Servo = 8;
 
 SoftwareSerial BtSerial(Rx,Tx);
