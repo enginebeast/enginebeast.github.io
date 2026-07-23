@@ -5,8 +5,7 @@ categories:
 ---
 
 ## Introduction
-
-자율 주행 자동차의 꽃하면 역시 이미지 처리 ai일 것이다. 이 글에서는 python의 Open CV 라이브러리를 이용해서 기존의 도로 주행 영상을 넣고 도로선을 따라 줄을 그은 영상을 받아보도록 한다.
+One of the key technologies behind autonomous driving is image processing. In this post, we will use OpenCV in Python to process a road-driving video and generate a new video with the detected lane lines overlaid on it.
 
 ## Display the image
 <img width="625" height="548" alt="Image" src="https://github.com/user-attachments/assets/cfbb7976-3283-4093-a8b9-0774533499df" />
