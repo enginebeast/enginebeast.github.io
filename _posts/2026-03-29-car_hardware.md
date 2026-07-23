@@ -38,4 +38,4 @@ categories:
 - Jumper wire housings
 
 ## Conclusion
-차가 선회할 때 속도가 너무 느린 단점이 있다. 하지만 이것이 차의 바퀴 형태나 재료에 의한 문제인지 모터의 출력 한계에 의한 문제인지는 아직 확실하지 않다.
+One limitation is that the car slows down significantly while turning. However, it is still unclear whether this is caused by the wheel design, the materials used, or the motor's limited torque.
