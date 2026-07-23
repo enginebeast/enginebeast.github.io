@@ -8,7 +8,7 @@ categories:
 
 <img width="300" height="400" alt="Image" src="https://github.com/user-attachments/assets/1817120f-515d-41d3-8bfe-f9e31355bb3d" />
 
-### Components
+## Components
 - Foam core: material for car body
 
 <img width="540" height="360" alt="Image" src="https://github.com/user-attachments/assets/51fbbc7e-2788-4ab2-805c-ab10970d029e" />
@@ -36,3 +36,6 @@ categories:
 
 <img width="550" height="550" alt="Image" src="https://github.com/user-attachments/assets/23a33b7a-502a-46f1-9769-5f24d2d50631" />
 - Jumper wire housings
+
+## Conclusion
+차가 선회할 때 속도가 너무 느린 단점이 있다. 하지만 이것이 차의 바퀴 형태나 재료에 의한 문제인지 모터의 출력 한계에 의한 문제인지는 아직 확실하지 않다.

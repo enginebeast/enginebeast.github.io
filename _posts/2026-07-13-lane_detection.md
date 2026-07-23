@@ -62,7 +62,8 @@ cannyed_image = cv2.Canny(gray_image, 100, 200)
   </iframe>
 </div>
 
-You can download the video [here](https://github.com/udacity/CarND-LaneLines-P1/blob/master/test_videos/solidWhiteRight.mp4).
+You can download the video 
+[here](https://github.com/udacity/CarND-LaneLines-P1/blob/master/test_videos/solidWhiteRight.mp4).
 
 ## Conclusion
 글에서는 컴퓨터 내에서 영상을 받아서 도로 선을 인지한 새로운 영상을 만들어낸 것이다. 하지만 실제 자율 주행 자동차에서는 도로 선을 매 순간마다 인지하고 그에 따라 판단을 하는 과정을 반복하는 것이 필요할 것이다.
