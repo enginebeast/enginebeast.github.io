@@ -7,6 +7,8 @@ categories:
 ## Introduction
 One of the key technologies behind autonomous driving is image processing. In this post, we will use OpenCV in Python to process a road-driving video and generate a new video with the detected lane lines overlaid on it.
 
+Before we start, please note that the code snippets in this post are fragmentary and incomplete. If you would like to see the full source code, visit the GitHub repository [here](https://github.com/enginebeast/vision-project).
+
 ## Display the image
 <img width="625" height="548" alt="Image" src="https://github.com/user-attachments/assets/cfbb7976-3283-4093-a8b9-0774533499df" />
 
@@ -65,9 +67,10 @@ You can download the video
 [here](https://github.com/udacity/CarND-LaneLines-P1/blob/master/test_videos/solidWhiteRight.mp4).
 
 ## Conclusion
-글에서는 컴퓨터 내에서 영상을 받아서 도로 선을 인지한 새로운 영상을 만들어낸 것이다. 하지만 실제 자율 주행 자동차에서는 도로 선을 매 순간마다 인지하고 그에 따라 판단을 하는 과정을 반복하는 것이 필요할 것이다.
+글의 프로그램은 기존의 영상을 처리해서 도로 선을 인지한 새로운 영상을 만들어낸 것이다. 하지만 실제 자율 주행 자동차에서는 도로 선을 매 순간마다 인지하고 그에 따라 판단을 하는 과정을 반복하는 것이 필요할 것이다.
 
 이 과정은 실제로 라즈베리파이를 통해 만든 차체를 통해 해보도록 하겠다.
 
 ## Source
 <https://medium.com/@mrhwick/simple-lane-detection-with-opencv-bfeb6ae54ec0>
+<https://github.com/udacity/CarND-LaneLines-P1/blob/master/test_videos/solidWhiteRight.mp4>
