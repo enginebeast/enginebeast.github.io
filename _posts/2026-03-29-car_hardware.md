@@ -9,10 +9,11 @@ categories:
 <img width="300" height="400" alt="Image" src="https://github.com/user-attachments/assets/1817120f-515d-41d3-8bfe-f9e31355bb3d" />
 
 ## Components
-- Foam core: material for car body
-
 <img width="540" height="360" alt="Image" src="https://github.com/user-attachments/assets/51fbbc7e-2788-4ab2-805c-ab10970d029e" />
 - Arduino board: Brain of this project
+
+<img width="560" height="700" alt="Image" src="https://github.com/user-attachments/assets/9e343fc2-65e2-4312-95d3-943e3a180ca9" />
+- Foam core: material for car body
 
 <img width="640" height="524" alt="Image" src="https://github.com/user-attachments/assets/258077a7-da0b-4c2e-8830-11e939b12255" />
 - Motor driver: Electrical device  that acts as a bridge between a low-power microcontroller and a high-power motor
