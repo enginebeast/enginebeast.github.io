@@ -13,11 +13,9 @@ Actually, my original goal was to create the autonomous mini forklift to be appl
 - [Arduino code for RC car ver.2](rccar_arduino_code2)
 - [Hardware of the RC car](car_hardware)
 
-## Building an RC car with Raspberry Pi
+## Building an self-driving mini-car
 - [Plans](plans)
 - [Lane detection with Open CV](lane_detection)
-
-## Building an autonomous small car
 
 ## Trials
 - [Taking apart an RC car](apart_rccar)
