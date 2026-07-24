@@ -67,9 +67,9 @@ You can download the video
 [here](https://github.com/udacity/CarND-LaneLines-P1/blob/master/test_videos/solidWhiteRight.mp4).
 
 ## Conclusion
-글의 프로그램은 기존의 영상을 처리해서 도로 선을 인지한 새로운 영상을 만들어낸 것이다. 하지만 실제 자율 주행 자동차에서는 도로 선을 매 순간마다 인지하고 그에 따라 판단을 하는 과정을 반복하는 것이 필요할 것이다.
+In this post, we generate the video with detected lane lines overlaid on it. However, real self-driving car must detect lane lines and make driving decision on them in real time.
 
-이 과정은 실제로 라즈베리파이를 통해 만든 차체를 통해 해보도록 하겠다.
+We will implement this process by real self-drving mini-car built with Raspberry Pi.
 
 ## Source
 <https://medium.com/@mrhwick/simple-lane-detection-with-opencv-bfeb6ae54ec0>
