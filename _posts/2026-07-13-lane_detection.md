@@ -31,6 +31,14 @@ plt.show()
 To detect the lane lines, we don't need colors. Therefore, we convert the image to grayscale. 
 
 ```py
+import numpy as np
+import cv2
+import math
+from moviepy import VideoFileClip
+from IPython.display import HTML
+
+...
+
 gray_image = cv2.cvtColor(image, cv2.COLOR_RGB2GRAY)
 ```
 
