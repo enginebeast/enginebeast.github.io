@@ -71,7 +71,7 @@ cannyed_image = cv2.Canny(gray_image, 100, 200)
   </iframe>
 </div>
 
-You can download the video 
+You can download the unedited video 
 [here](https://github.com/udacity/CarND-LaneLines-P1/blob/master/test_videos/solidWhiteRight.mp4).
 
 ## Conclusion
