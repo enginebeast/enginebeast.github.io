@@ -55,7 +55,9 @@ cannyed_image = cv2.Canny(gray_image, 100, 200)
 
 ## Crop the Image to a Triangular Region
 <img width="626" height="545" alt="Image" src="https://github.com/user-attachments/assets/93ab6006-8960-4d6e-bd40-23902918350e" />
-Now, we crop the image to a triangle
+Now, we crop the image to a triangle region.
+
+Here, you should not misunderstand this as an absolute standard for image detection. It is just an arbitrary choice.
 
 ## Draw Red Lines over the Lane Markings
 <img width="626" height="543" alt="Image" src="https://github.com/user-attachments/assets/a374ac3f-a69d-49f3-ae76-05f8aef48dde" />
