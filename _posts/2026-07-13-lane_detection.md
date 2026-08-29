@@ -28,7 +28,7 @@ plt.show()
 <img width="628" height="554" alt="Image" src="https://github.com/user-attachments/assets/315f7f6c-a1d7-4677-b91e-43fe12e5f8f8" />
 
 
-To detect the lane lines, we don't need colors. Therefore, we convert the image to grayscale. 
+To detect the lane lines, color is unnecessary information for calculation. This is because the algorithm we use in the next step only uses differences in brightness. Therefore, we convert the image to grayscale.
 
 ```py
 import numpy as np
@@ -55,6 +55,7 @@ cannyed_image = cv2.Canny(gray_image, 100, 200)
 
 ## Crop the Image to a Triangular Region
 <img width="626" height="545" alt="Image" src="https://github.com/user-attachments/assets/93ab6006-8960-4d6e-bd40-23902918350e" />
+Now, we crop the image to a triangle
 
 ## Draw Red Lines over the Lane Markings
 <img width="626" height="543" alt="Image" src="https://github.com/user-attachments/assets/a374ac3f-a69d-49f3-ae76-05f8aef48dde" />
