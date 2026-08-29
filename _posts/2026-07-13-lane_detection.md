@@ -87,4 +87,5 @@ We will implement this process by real self-drving mini-car built with Raspberry
 
 ## Source
 <https://medium.com/@mrhwick/simple-lane-detection-with-opencv-bfeb6ae54ec0>
+
 <https://github.com/udacity/CarND-LaneLines-P1/blob/master/test_videos/solidWhiteRight.mp4>
