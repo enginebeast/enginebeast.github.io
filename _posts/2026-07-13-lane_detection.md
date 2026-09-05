@@ -12,14 +12,16 @@ Before we start, please note that the code snippets in this post are fragmentary
 ## Display the Image
 <img width="625" height="548" alt="Image" src="https://github.com/user-attachments/assets/cfbb7976-3283-4093-a8b9-0774533499df" />
 
+First, we need to display the image so that we can check the result of each processing step. The following code allows us to do this.
+
 ```py
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
+
 # reading in an image
 image = mpimg.imread('solidWhiteCurve.jpg')
 
 # printing out some stats and plotting the image
-print('This image is:', type(image), 'with dimensions:', image.shape)
 plt.imshow(image)
 plt.show()
 ```
