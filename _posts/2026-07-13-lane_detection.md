@@ -93,7 +93,7 @@ region_of_interest_vertices = [
 ]
 image = mpimg.imread('solidWhiteCurve.jpg')
 cropped_image = region_of_interest(
-    image,
+    cannyed_image,
     np.array([region_of_interest_vertices], np.int32),
 )
 ```
