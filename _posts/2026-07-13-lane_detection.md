@@ -59,6 +59,45 @@ cannyed_image = cv2.Canny(gray_image, 100, 200)
 <img width="626" height="545" alt="Image" src="https://github.com/user-attachments/assets/93ab6006-8960-4d6e-bd40-23902918350e" />
 Now, we crop the image to a triangle region.
 
+```py
+import matplotlib.pyplot as plt
+import matplotlib.image as mpimg
+
+import numpy as np
+import cv2
+
+def region_of_interest(img, vertices):
+    # Define a blank matrix that matches the image height/width.
+    mask = np.zeros_like(img)
+    # Retrieve the number of color channels of the image.
+    channel_count = img.shape[2]
+    # Create a match color with the same color channel counts.
+    match_mask_color = (255,) * channel_count
+      
+    # Fill inside the polygon
+    cv2.fillPoly(mask, vertices, match_mask_color)
+    
+    # Returning the image only where mask pixels match
+    masked_image = cv2.bitwise_and(img, mask)
+    return masked_image
+
+image = mpimg.imread('solidWhiteCurve.jpg')
+
+height = image.shape[0]
+width = image.shape[1]
+
+region_of_interest_vertices = [
+    (0, height),
+    (width / 2, height / 2),
+    (width, height),
+]
+image = mpimg.imread('solidWhiteCurve.jpg')
+cropped_image = region_of_interest(
+    image,
+    np.array([region_of_interest_vertices], np.int32),
+)
+```
+
 Here, you should not misunderstand this as an absolute standard for image detection. It is just an arbitrary choice.
 
 ## Draw Red Lines over the Lane Markings
