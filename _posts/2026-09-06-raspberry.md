@@ -5,9 +5,11 @@ categories:
 ---
 
 ### Troubleshooting Raspberry Pi Wi-Fi Connection Issues
-라즈베리파이 os를 설치한 SD카드를 삽입하고 메인 데스크탑과 라즈베리파이 보드의 연결을 시도한 나는 상당히 당황했다. 분명 인터넷 자료에서도 라즈베리파이브5 자체에 내장 와이파이가 장착되어 있다고 나오는데 pc는 라즈베리파이를 잡지 못하고 있었기 때문이다.
+I ran into some issues while trying to connect my main desktop to the Raspberry Pi. My PC could not detect the Raspberry Pi, even though online sources stated that the Raspberry Pi 5 has built-in Wi-Fi.
 
-우선 처음에는 SD 카드가 불량인가 하였지만 이 가설은 금방 기각되었다. 애초에 SD 카드가 불량이라면 SD 카드 리더기에 꽂았을 때부터 인식을 제대로 할리가 없었기 때문이다.
+At first, I thought the SD card might be faulty, but this hypothesis was quickly ruled out.
+
+애초에 SD 카드가 불량이라면 SD 카드 리더기에 꽂았을 때부터 인식을 제대로 할리가 없었기 때문이다.
 
 두번째로 생각한 것은 OS 설치 때 설정을 잘못했나였지만 OS imager를 눌러 설정을 여러번 뒤져봐도 설정에 큰 문제는 없었다.
 
