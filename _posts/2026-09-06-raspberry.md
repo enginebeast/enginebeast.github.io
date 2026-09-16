@@ -7,15 +7,15 @@ categories:
 ### Troubleshooting Raspberry Pi Wi-Fi Connection Issues
 I ran into some issues while trying to connect my main desktop to the Raspberry Pi. My PC could not detect the Raspberry Pi, even though online sources stated that the Raspberry Pi 5 has built-in Wi-Fi.
 
-At first, I thought the SD card might be faulty, but this hypothesis was quickly ruled out.
+First, I thought the SD card might be faulty, but this hypothesis was quickly ruled out. If the SD card itself had been faulty, my PC would not have recognized it properly when I tried to write the OS image to it.
 
-애초에 SD 카드가 불량이라면 SD 카드 리더기에 꽂았을 때부터 인식을 제대로 할리가 없었기 때문이다.
+Second, I thought I might have made a mistake while installing the OS, but I could not find any major issues even after checking the Raspberry Pi Imager settings several times.
 
-두번째로 생각한 것은 OS 설치 때 설정을 잘못했나였지만 OS imager를 눌러 설정을 여러번 뒤져봐도 설정에 큰 문제는 없었다.
+Third, I found that even though the Raspberry Pi 5 has built-in Wi-Fi, there are cases where it does not connect properly at first and may need to be connected via Ethernet. However, even after connecting it to the router with an Ethernet cable, the issue was not resolved. Since I had no screen connected to the Raspberry Pi, I could not even confirm whether the wired connection was working properly.
 
-세번째로 알아낸 것은 라즈베리파이5에 자체적으로 와이파이가 장착되어 있는 것은 맞지만 처음에는 인식하지 못하는 케이스가 많고 유선으로 연결해줘야 한다는 정보였다. 하지만 유선 연결 후에도 문제는 제대로 해결되지 않았고 애초에 스크린으로 결과를 확인할 수 없기에 유선으로도 제대로 연결되어 있는지 알 수 없었다.
+Finally I purchase the micro HDMI cable, and diagnose the cause of problem. At first, raspberry pi could not recognize SD card properly. However, in the first hypothesis, I checked there are no problem in SD card. So, I can supposed that the board has an error.
 
-결국 최종적으로 마이크로 HDMI 랜선을 주문하여 메인데스크탑에 연결해 쓰던 스크린에 연결해 문제 원인을 파악할 수밖에 없었다. 애초에 라즈베리파이는 SD 카드를 인식하지 못하고 있었다. 그렇지만 첫번째 가설에서 SD 카드 자체의 불량은 없었으니 문제는 보드에 있다고 추측할 수 있었다. 
+결국 최종적으로 마이크로 HDMI선을 주문하여 메인데스크탑에 연결해 쓰던 스크린에 연결해 문제 원인을 파악할 수밖에 없었다. 애초에 라즈베리파이는 SD 카드를 인식하지 못하고 있었다. 그렇지만 첫번째 가설에서 SD 카드 자체의 불량은 없었으니 문제는 보드에 있다고 추측할 수 있었다. 
 
 <img width="500" height="600" alt="Image" src="https://github.com/user-attachments/assets/a460e977-d0a2-4eb1-8af8-e30ecdf5ea67" />
 
