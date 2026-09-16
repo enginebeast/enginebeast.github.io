@@ -13,9 +13,7 @@ Second, I thought I might have made a mistake while installing the OS, but I cou
 
 Third, I found that even though the Raspberry Pi 5 has built-in Wi-Fi, there are cases where it does not connect properly at first and may need to be connected via Ethernet. However, even after connecting it to the router with an Ethernet cable, the issue was not resolved. Since I had no screen connected to the Raspberry Pi, I could not even confirm whether the wired connection was working properly.
 
-Finally I purchase the micro HDMI cable, and diagnose the cause of problem. At first, raspberry pi could not recognize SD card properly. However, in the first hypothesis, I checked there are no problem in SD card. So, I can supposed that the board has an error.
-
-결국 최종적으로 마이크로 HDMI선을 주문하여 메인데스크탑에 연결해 쓰던 스크린에 연결해 문제 원인을 파악할 수밖에 없었다. 애초에 라즈베리파이는 SD 카드를 인식하지 못하고 있었다. 그렇지만 첫번째 가설에서 SD 카드 자체의 불량은 없었으니 문제는 보드에 있다고 추측할 수 있었다. 
+Finally, I had no choice but to order a micro-HDMI cable and connect the Raspberry Pi to the monitor I normally used with my main desktop in order to identify the cause of the problem. It turned out that the Raspberry Pi was not detecting the SD card properly. However, since I had already ruled out the possibility of a faulty SD card in my first hypothesis, I suspected that the problem might be with the board itself.
 
 <img width="500" height="600" alt="Image" src="https://github.com/user-attachments/assets/a460e977-d0a2-4eb1-8af8-e30ecdf5ea67" />
 
