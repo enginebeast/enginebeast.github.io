@@ -17,11 +17,11 @@ Finally, I had no choice but to order a micro-HDMI cable and connect the Raspber
 
 <img width="500" height="600" alt="Image" src="https://github.com/user-attachments/assets/a460e977-d0a2-4eb1-8af8-e30ecdf5ea67" />
 
-결국 SD 리더기에 SD 카드를 꽂고 그 리더기를 다시 USB 단자에 꽂고 나서야 SD 카드가 제대로 인식되기 시작했다. 배송 중에 고장난 것인지 내가 보드를 거칠게 다룬 것인지 알 수 없지만 SD 삽입 단자 자체가 불량이었던 것이다.
+After I inserted the SD card into the card reader and then plugged the reader into a USB port, the SD card was finally recognized properly. I could not tell whether the SD card slot had been damaged during shipping or whether I had handled the board too roughly, but the slot itself turned out to be faulty.
 
 <img width="1000" height="500" alt="Image" src="https://github.com/user-attachments/assets/35377588-4804-42c2-b832-ad87481f36b3" />
 
-이후 tigerVNC를 통해 확인한 라즈베리파이 화면은 위와 같다.
+The Raspberry Pi screen I checked through TigerVNC is shown above.
 
 ### Transferring and Running the Code on Raspberry Pi
 <img width="600" height="650" alt="Image" src="https://github.com/user-attachments/assets/c0f724b3-7a85-4d2e-81ae-95e68357c763" />
