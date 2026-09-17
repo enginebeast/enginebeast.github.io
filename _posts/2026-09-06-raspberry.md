@@ -29,8 +29,7 @@ Finally, I had no choice but to order a micro-HDMI cable and connect the Raspber
 <img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/aff31cb6-abf8-45d8-94ed-ad527ac578b0" />
 
 <img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/803edc35-5e49-48ef-aa8b-936f49f6919c" />
-
-이후 라즈베리파이에 데스크탑에 존재하는 Lane Detection 코드를 옮겨서 실행해보는 단계로 들어갔다. 처음에는 데스크탑에서 멀쩡히 돌아가는 코드가 라이브러리들을 다운로드해도 실행되지 않아 당황했다. 아마 라이브러리 내 메서드의 버전 차이 이슈로 보이며 chat GPT의 도움에 따라 내용을 수정했더니 정상적으로 작동하는 것을 확인할 수 있었다.
+Next, I moved the lane detection code from my main desktop to the Raspberry Pi and ran it. At first, I was confused because the code that ran perfectly on my desktop would not run on the Raspberry Pi, even after I installed the required libraries. Since the issue seemed to be caused by a version difference in the library, I modified some parts of the code with the help of ChatGPT, and it ran properly on the Raspberry Pi.
 
 ### Identifying the Camera Cable Compatibility Issue
 <img width="600" height="800" alt="Image" src="https://github.com/user-attachments/assets/f40897ce-1ce7-448e-8a3f-48673bd58ec6" />
