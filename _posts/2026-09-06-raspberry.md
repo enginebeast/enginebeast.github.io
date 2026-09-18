@@ -29,12 +29,14 @@ The Raspberry Pi screen I checked through TigerVNC is shown above.
 <img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/aff31cb6-abf8-45d8-94ed-ad527ac578b0" />
 
 <img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/803edc35-5e49-48ef-aa8b-936f49f6919c" />
+
 Next, I moved the lane detection code from my main desktop to the Raspberry Pi and ran it. At first, I was confused because the code that ran perfectly on my desktop would not run on the Raspberry Pi, even after I installed the required libraries. Since the issue seemed to be caused by a version difference in the library, I modified some parts of the code with the help of ChatGPT, and it ran properly on the Raspberry Pi.
 
 ### Identifying the Camera Cable Compatibility Issue
 <img width="600" height="800" alt="Image" src="https://github.com/user-attachments/assets/f40897ce-1ce7-448e-8a3f-48673bd58ec6" />
 
 <img width="600" height="800" alt="Image" src="https://github.com/user-attachments/assets/b2b0eb3a-76cb-412c-add4-d188a8557ce9" />
+
 이제 라즈베리파이 카메라가 제대로 작동하는지 연결하고 확인해보려 하는데 크기가 맞지 않아 꽂아지지 않았다. 알고 보니 내가 산 카메라에 세트로 있던 케이블인 15 pin to 15 pin 케이블이고 라즈베리파이5에 맞는 케이블은 15 pin to 22 pin 케이블이라는 것을 알게 되었다.
 
 <img width="800" height="600" alt="Image" src="https://github.com/user-attachments/assets/908ca7da-0439-4519-8d2d-ace6869e12fb" />
