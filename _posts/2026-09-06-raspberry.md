@@ -37,10 +37,10 @@ Next, I moved the lane detection code from my main desktop to the Raspberry Pi a
 
 <img width="600" height="800" alt="Image" src="https://github.com/user-attachments/assets/b2b0eb3a-76cb-412c-add4-d188a8557ce9" />
 
-이제 라즈베리파이 카메라가 제대로 작동하는지 연결하고 확인해보려 하는데 크기가 맞지 않아 꽂아지지 않았다. 알고 보니 내가 산 카메라에 세트로 있던 케이블인 15 pin to 15 pin 케이블이고 라즈베리파이5에 맞는 케이블은 15 pin to 22 pin 케이블이라는 것을 알게 되었다.
+Next, I tried to connect the camera to the Raspberry Pi to check whether it worked properly. However, I couldn't connect it because the cable was wider than the port. I later found out that the cable included with the camera was a 15-pin to 15-pin cable, while the Raspberry Pi 5 requires a 15-pin to 22-pin cable.
 
 <img width="800" height="600" alt="Image" src="https://github.com/user-attachments/assets/908ca7da-0439-4519-8d2d-ace6869e12fb" />
 
 <img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/5380eff6-b9b5-4472-b5d0-43950fac2450" />
 
-이후 주문한 케이블로 바꿔서 연결해 확인해본 결과 카메라가 제대로 작동하고 있는 것을 확인할 수 있었다. 하지만 원거리 통신이라 화면의 반응이 느려서 메인 데스크탑의 스크린과 따로 쓸 수 있는 스크린의 필요성이 절실하다고 느꼈다.
+Later, I replaced the original cable with the one I ordered and confirmed that the camera was working properly. However, the screen response was slow because I was accessing the Raspberry Pi remotely over Wi-Fi. This made me realize that I needed a dedicated monitor for the Raspberry Pi, separate from my main desktop's monitor.
