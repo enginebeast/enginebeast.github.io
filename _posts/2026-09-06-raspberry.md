@@ -44,3 +44,5 @@ Next, I tried to connect the camera to the Raspberry Pi to check whether it work
 <img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/5380eff6-b9b5-4472-b5d0-43950fac2450" />
 
 Later, I replaced the original cable with the one I ordered and confirmed that the camera was working properly. However, the screen response was slow because I was accessing the Raspberry Pi remotely over Wi-Fi. This made me realize that I needed a dedicated monitor for the Raspberry Pi, separate from my main desktop's monitor.
+
+I have encountered similar issues several times before, but I still make the same mistake of ordering components without checking their compatibility. As a result, I waste time and money unnecessarily. This issue is also one of the problems I need to resolve as I continue working on the project.
